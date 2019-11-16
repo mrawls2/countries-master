@@ -1,0 +1,3092 @@
+{
+"countries": {
+	"world": {
+   	 "data": {
+   	   "name": "World",
+   	   "introduction": {
+   		 "background": "Globally, the 20th century was marked by: (a) two devastating world wars; (b) the Great Depression of the 1930s; (c) the end of vast colonial empires; (d) rapid advances in science and technology, from the first airplane flight at Kitty Hawk, North Carolina (US) to the landing on the moon; (e) the Cold War between the Western alliance and the Warsaw Pact nations; (f) a sharp rise in living standards in North America, Europe, and Japan; (g) increased concerns about environmental degradation including deforestation, energy and water shortages, declining biological diversity, and air pollution; (h) the onset of the AIDS epidemic; and (i) the ultimate emergence of the US as the only world superpower. The planet's population continues to explode: from 1 billion in 1820 to 2 billion in 1930, 3 billion in 1960, 4 billion in 1974, 5 billion in 1987, 6 billion in 1999, and 7 billion in 2012. For the 21st century, the continued exponential growth in science and technology raises both hopes (e.g., advances in medicine and agriculture) and fears (e.g., development of even more lethal weapons of war).\nWomen's World Cup One-Pager: PDF"
+   	   },
+   	   "geography": {
+   		 "overview": "The surface of the earth is approximately 70.9% water and 29.1% land. The former portion is divided into large bodies termed oceans. The World Factbook recognizes and describes five oceans, which are in decreasing order of size: the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean. Because of their immense size, the Pacific and Atlantic Oceans are generally divided at the equator into the North and South Pacific Oceans and the North and South Atlantic Oceans, thus creating seven major water bodies - the so-called \"Seven Seas.\"\nSome 97.5% of the earth's water is saltwater. Of the 2.5% that is fresh, about two-thirds is frozen mostly locked up in the Antarctic ice sheets and mountain glaciers worldwide. If all the surface ice on earth fully melted, the sea level would rise about 70 m.\nEarth's land portion is generally divided into several, large, discrete landmasses termed continents. Depending on the convention used, the number of continents can vary from five to seven. The most common classification recognizes seven, which are (from largest to smallest): Asia, Africa, North America, South America, Antarctica, Europe, and Australia. Asia and Europe are sometimes lumped together into a Eurasian continent resulting in six continents. Alternatively, North and South America are sometimes grouped as simply the Americas, resulting in a continent total of six (or five, if the Eurasia designation is used).\nNorth America is commonly understood to include the island of Greenland, the isles of the Caribbean, and to extend south all the way to the Isthmus of Panama. The easternmost extent of Europe is generally defined as being the Ural Mountains and the Ural River; on the southeast the Caspian Sea; and on the south the Caucasus Mountains, the Black Sea, and the Mediterranean. Portions of five countries - Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey - fall within both Europe and Asia, but in every instance the larger section is in Asia. These countries are considered part of both continents. Armenia and Cyprus, which lie completely in Western Asia, are geopolitically European countries.\nAsia usually incorporates all the islands of the Philippines, Malaysia, and Indonesia. The islands of the Pacific are often lumped with Australia into a \"land mass\" termed Oceania or Australasia. Africa's northeast extremity is frequently delimited at the Isthmus of Suez, but for geopolitical purposes, the Egyptian Sinai Peninsula is often included as part of Africa.\nAlthough the above groupings are the most common, different continental dispositions are recognized or taught in certain parts of the world, with some arrangements more heavily based on cultural spheres rather than physical geographic considerations.\nBased on the seven-continent model, and grouping islands with adjacent continents, Africa has the most countries with 54. Europe contains 49 countries and Asia 48, but these two continents share five countries: Azerbaijan, Georgia, Kazakhstan, Russia, and Turkey. North America consists of 23 sovereign states, Oceania has 14, and South America 12.\ncountries by continent: Africa (54): Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cabo Verde, Cameroon, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Eswatini, Ethiopia, Gabon, The Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Tanzania, Togo, Tunisia, Uganda, Zambia, Zimbabwe;\nEurope (49): Albania, Andorra, Austria, Azerbaijan*, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Georgia*, Germany, Greece, Holy See (Vatican City), Hungary, Iceland, Ireland, Italy, Kazakhstan*, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, Russia*, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey*, Ukraine, United Kingdom (\nindicates part of the country is also in Asia);\nAsia (48): Afghanistan, Armenia, Azerbaijan*, Bahrain, Bangladesh, Bhutan, Brunei, Burma, Cambodia, China, Cyprus, Georgia*, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan*, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Maldives, Mongolia, Nepal, Oman, Pakistan, Philippines, Qatar, Russia*, Saudi Arabia, Singapore, Sri Lanka, Syria, Tajikistan, Thailand, Timor-Leste, Turkey*, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen (\nindicates part of the country is also in Europe);\nNorth America (23): Antigua and Barbuda, The Bahamas, Barbados, Belize, Canada, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Trinidad and Tobago, United States;\nOceania (14): Australia, Fiji, Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, New Zealand, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, Vanuatu;\nSouth America (12): Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela",
+   		 "map_references": "Physical Map of the World",
+   		 "area": {
+   		   "total": {
+   			 "value": 510072000,
+   			 "units": "sq km"
+   		   },
+   		   "land": {
+   			 "value": 148940000,
+   			 "units": "sq km"
+   		   },
+   		   "water": {
+   			 "value": 361132000,
+   			 "units": "sq km"
+   		   },
+   		   "note": "70.9% of the world's surface is water, 29.1% is land",
+   		   "comparative": "land area about 16 times the size of the US"
+   		 },
+   		 "land_boundaries": {
+   		   "note": "46 nations and other areas are landlocked, these include: Afghanistan, Andorra, Armenia, Austria, Azerbaijan, Belarus, Bhutan, Bolivia, Botswana, Burkina Faso, Burundi, Central African Republic, Chad, Czechia, Eswatini, Ethiopia, Holy See (Vatican City), Hungary, Kazakhstan, Kosovo, Kyrgyzstan, Laos, Lesotho, Liechtenstein, Luxembourg, Macedonia, Malawi, Mali, Moldova, Mongolia, Nepal, Niger, Paraguay, Rwanda, San Marino, Serbia, Slovakia, South Sudan, Switzerland, Tajikistan, Turkmenistan, Uganda, Uzbekistan, West Bank, Zambia, Zimbabwe; two of these, Liechtenstein and Uzbekistan, are doubly landlocked"
+   		 },
+   		 "coastline": {
+   		   "value": 356000,
+   		   "units": "km",
+   		   "note": "95 nations and other entities are islands that border no other countries, they include: American Samoa, Anguilla, Antigua and Barbuda, Aruba, Ashmore and Cartier Islands, The Bahamas, Bahrain, Baker Island, Barbados, Bermuda, Bouvet Island, British Indian Ocean Territory, British Virgin Islands, Cabo Verde, Cayman Islands, Christmas Island, Clipperton Island, Cocos (Keeling) Islands, Comoros, Cook Islands, Coral Sea Islands, Cuba, Curacao, Cyprus, Dominica, Falkland Islands (Islas Malvinas), Faroe Islands, Fiji, French Polynesia, French Southern and Antarctic Lands, Greenland, Grenada, Guam, Guernsey, Heard Island and McDonald Islands, Howland Island, Iceland, Isle of Man, Jamaica, Jan Mayen, Japan, Jarvis Island, Jersey, Johnston Atoll, Kingman Reef, Kiribati, Madagascar, Maldives, Malta, Marshall Islands, Mauritius, Mayotte, Federated States of Micronesia, Midway Islands, Montserrat, Nauru, Navassa Island, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Palau, Palmyra Atoll, Paracel Islands, Philippines, Pitcairn Islands, Puerto Rico, Saint Barthelemy, Saint Helena, Saint Kitts and Nevis, Saint Lucia, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Samoa, Sao Tome and Principe, Seychelles, Singapore, Sint Maarten, Solomon Islands, South Georgia and the South Sandwich Islands, Spratly Islands, Sri Lanka, Svalbard, Taiwan, Tokelau, Tonga, Trinidad and Tobago, Turks and Caicos Islands, Tuvalu, Vanuatu, Virgin Islands, Wake Island, Wallis and Futuna"
+   		 },
+   		 "maritime_claims": "a variety of situations exist, but in general, most countries make the following claims measured from the mean low-tide baseline as described in the 1982 UN Convention on the Law of the Sea: territorial sea - 12 nm, contiguous zone - 24 nm, and exclusive economic zone - 200 nm; additional zones provide for exploitation of continental shelf resources and an exclusive fishing zone; boundary situations with neighboring states prevent many countries from extending their fishing or economic zones to a full 200 nm",
+   		 "climate": "a wide equatorial band of hot and humid tropical climates, bordered north and south by subtropical temperate zones that separate two large areas of cold and dry polar climates\nTen Driest Places on Earth (Average Annual Precipitation): McMurdo Dry Valleys, Antarctica 0 mm (0 in)\nArica, Chile 0.76 mm (0.03 in)\nAl Kufrah, Libya 0.86 mm (0.03 in)\nAswan, Egypt 0.86 mm (0.03 in)\nLuxor, Egypt 0.86 mm (0.03 in)\nIca, Peru 2.29 mm (0.09 in)\nWadi Halfa, Sudan 2.45 mm (0.1 in)\nIquique, Chile 5.08 mm (0.2 in)\nPelican Point, Namibia 8.13 mm (0.32 in)\nEl Arab (Aoulef), Algeria 12.19 mm (0.48 in)\nTen Wettest Places on Earth (Average Annual Precipitation): Mawsynram, India 11,871 mm (467.4 in)\nCherrapunji, India 11,777 mm (463.7 in)\nTutunendo, Colombia 11,770 mm (463.4 in)\nCropp River, New Zealand 11,516 mm (453.4 in)\nSan Antonia de Ureca, Equatorial Guinea 10,450 mm (411.4 in)\nDebundsha, Cameroon 10,299 mm (405.5 in)\nBig Bog, US (Hawaii) 10,272 mm (404.4 in)\nMt Waialeale, US (Hawaii) 9,763 mm (384.4 in)\nKukui, US (Hawaii) 9,293 mm (365.9 in)\nEmeishan, China 8,169 mm (321.6 in)\nTen Coldest Places on Earth (Lowest Average Monthly Temperature): Verkhoyansk, Russia (Siberia) -47°C (-53°F) January\nOymyakon, Russia (Siberia) -46°C (-52°F) January\nEureka, Canada -38.4°C (-37.1°F) February\nIsachsen, Canada -36°C (-32.8°F) February\nAlert, Canada -34°C (-28°F) February\nKap Morris Jesup, Greenland -34°C (-29°F) March\nCornwallis Island, Canada -33.5°C (-28.3°F) February\nCambridge Bay, Canada -33.5°C (28.3°F) February\nIlirnej, Russia -33°C (-28°F) January\nResolute, Canada -33°C (-27.4°F) February\nTen Hottest Places on Earth (Highest Average Monthly Temperature): Death Valley, US (California) 39°C (101°F) July\nIranshahr, Iran 38.3°C (100.9°F) June\nOuallene, Algeria 38°C (100.4°F) July\nKuwait City, Kuwait 37.7°C (100°F) July\nMedina, Saudi Arabia 36°C (97°F) July\nBuckeye, US (Arizona) 34°C (93°F) July\nJazan, Saudi Arabia 33°C (91°F) June\nAl Kufrah, Libya 31°C (87°F) July\nAlice Springs, Australia 29°C (84°F) January\nTamanrasset, Algeria 29°C (84°F) June",
+   		 "terrain": "tremendous variation of terrain on each of the continents; check the World 'Elevation' entry for a compilation of terrain extremes; the world's ocean floors are marked by mid-ocean ridges while the ocean surfaces form a dynamic, continuously changing environment; check the 'Terrain' field and its 'major surface currents' subfield under each of the five ocean (Arctic, Atlantic, Indian, Pacific, and Southern) entries for further information on oceanic environs\nTen Cave Superlatives: compiled from \"Geography - note(s)\" under various country entries where more details may be found\nlargest cave: Son Doong in Phong Nha-Ke Bang National Park, Vietnam is the world's largest cave (greatest cross sectional area) and is the largest known cave passage in the world by volume; it currently measures a total of 38.5 million cu m (about 1.35 billion cu ft); it connects to Thung cave (but not yet officially); when recognized, it will add an additional 1.6 million cu m in volume\nlargest ice cave: the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, Austria is the world's largest and longest ice cave system at 42 km (26 mi)\nlongest cave: Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 mi) of surveyed passageways\nlongest salt cave: the Malham Cave in Mount Sodom in Israel is the world's longest salt cave at 10 km (6 mi); its survey is not complete and its length will undoubtedly increase\nlongest underwater cave: the Sac Actun cave system in Mexico at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide\nlongest lava tube cave: Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep\ndeepest cave: Veryovkina Cave in the Caucasus country of Georgia is the world's deepest cave, plunging down 2,212 m (7,257 ft)\ndeepest underwater cave: the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep\nlargest cave chamber: the Miao Room in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park encloses some 10.78 million cu m (380.7 million cu ft) of volume\nlargest bat cave: Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals",
+   		 "elevation": {
+   		   "mean_elevation": {
+   			 "value": 840,
+   			 "units": "m"
+   		   },
+   		   "lowest_point": {
+   			 "name": "Bentley Subglacial Trench (Antarctica)",
+   			 "elevation": {
+   			   "value": -2555,
+   			   "units": "m"
+   			 },
+   			 "note": "in the oceanic realm, Challenger Deep in the Mariana Trench is the lowest point, lying -10,924 m below the surface of the Pacific Ocean"
+   		   },
+   		   "highest_point": {
+   			 "name": "Mount Everest",
+   			 "elevation": {
+   			   "value": 8850,
+   			   "units": "m"
+   			 }
+   		   },
+   		   "top_ten_highest_mountains_measured_from_sea_level": "note -",
+   		   "top_ten_highest_island_peaks": "note",
+   		   "highest_capital_on_each_continent": "South America - La Paz (Bolivia) 3,640 m; Africa - Addis Ababa (Ethiopia) 2,355 m; Asia - Thimphu (Bhutan) 2,334 m; North America - Mexico City (Mexico) 2,240 m; Europe - Andorra la Vella (Andorra) 1,023 m; Australia - Canberra (Australia) 605 m",
+   		   "lowest_capital_on_each_continent": "Asia - Baku (Azerbaijan) -28 m; Europe - Amsterdam (Netherlands) -2 m; Africa - Banjul (Gambia); Bissau (Guinea-Bissau), Conakry (Guinea), Djibouti (Djibouti), Libreville (Gabon), Male (Maldives), Monrovia (Liberia), Tunis (Tunisia), Victoria (Seychelles) 0 m; North America - Basseterre (Saint Kitts and Nevis), Kingstown (Saint Vincent and the Grenadines), Panama City (Panama), Port of Spain (Trinidad and Tobago), Roseau (Dominica), Saint John's (Antigua and Barbuda), Santo Domingo (Dominican Republic) 0 m; South America - Georgetown (Guyana) 0 m; Australia - Canberra (Australia) 605 m"
+   		 },
+   		 "irrigated_land": {
+   		   "value": 3242917,
+   		   "units": "sq km",
+   		   "date": "2012"
+   		 },
+   		 "population_distribution": "six of the world's seven continents are widely and permanently inhabited; Asia is easily the most populous continent with about 60% of the world's population (China and India together account for over 35%); Africa comes in second with over 15% of the earth's populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation",
+   		 "natural_hazards": [
+   		   {
+   			 "description": "large areas subject to severe weather (tropical cyclones)",
+   			 "type": "hazard"
+   		   },
+   		   {
+   			 "description": "natural disasters (earthquakes, landslides, tsunamis, volcanic eruptions)",
+   			 "type": "hazard"
+   		   },
+   		   {
+   			 "description": "volcanism is a fundamental driver and consequence of plate tectonics, the physical process reshaping the Earth's lithosphere; the world is home to more than 1,500 potentially active volcanoes, with over 500 of these having erupted in historical times; an estimated 500 million people live near these volcanoes; associated dangers include lava flows, lahars (mudflows), pyroclastic flows, ash clouds, ash fall, ballistic projectiles, gas emissions, landslides, earthquakes, and tsunamis; in the 1990s, the International Association of Volcanology and Chemistry of the Earth's Interior, created a list of 16 Decade Volcanoes worthy of special study because of their great potential for destruction: Avachinsky-Koryaksky (Russia), Colima (Mexico), Etna (Italy), Galeras (Colombia), Mauna Loa (United States), Merapi (Indonesia), Nyiragongo (Democratic Republic of the Congo), Rainier (United States), Sakurajima (Japan), Santa Maria (Guatemala), Santorini (Greece), Taal (Philippines), Teide (Spain), Ulawun (Papua New Guinea), Unzen (Japan), Vesuvius (Italy); see second note under \"Geography - note\"",
+   			 "type": "volcanism"
+   		   }
+   		 ],
+   		 "environment": {
+   		   "current_issues": [
+   			 "large areas subject to overpopulation",
+   			 "industrial disasters",
+   			 "air pollution",
+   			 "water pollution",
+   			 "acid rain",
+   			 "toxic substances",
+   			 "loss of vegetation",
+   			 "overgrazing",
+   			 "deforestation",
+   			 "desertification",
+   			 "loss of biodiversity",
+   			 "soil degradation",
+   			 "soil depletion",
+   			 "erosion",
+   			 "ozone layer depletion",
+   			 "waste disposal",
+   			 "global warming becoming a greater concern"
+   		   ]
+   		 }
+   	   },
+   	   "people": {
+   		 "population": {
+   		   "total": 7503828180,
+   		   "date": "2018"
+   		 },
+   		 "languages": {
+   		   "language": [
+   			 {
+   			   "name": "Mandarin Chinese",
+   			   "percent": 12.3
+   			 },
+   			 {
+   			   "name": "Spanish",
+   			   "percent": 6
+   			 },
+   			 {
+   			   "name": "English",
+   			   "percent": 5.1
+   			 },
+   			 {
+   			   "name": "Arabic",
+   			   "percent": 5.1
+   			 },
+   			 {
+   			   "name": "Hindi",
+   			   "percent": 3.5
+   			 },
+   			 {
+   			   "name": "Bengali",
+   			   "percent": 3.3
+   			 },
+   			 {
+   			   "name": "Portuguese",
+   			   "percent": 3
+   			 },
+   			 {
+   			   "name": "Russian",
+   			   "percent": 2.1
+   			 },
+   			 {
+   			   "name": "Japanese",
+   			   "percent": 1.7
+   			 },
+   			 {
+   			   "name": "Punjabi"
+   			 },
+   			 {
+   			   "name": "Western",
+   			   "percent": 1.3
+   			 },
+   			 {
+   			   "name": "Javanese",
+   			   "percent": 1.1
+   			 }
+   		   ],
+   		   "note": "percents are for \"first language\" speakers only; the six UN languages - Arabic, Chinese (Mandarin), English, French, Russian, and Spanish (Castilian) - are the mother tongue or second language of about 45% of the world's population, and are the official languages in more than half the states in the world; some 400 languages have more than a million first-language speakers\nall told, there are an estimated 7,100 languages spoken in the world; approximately 80% of these languages are spoken by less than 100,000 people; about 150 languages are spoken by less than 10 people; communities that are isolated from each other in mountainous regions often develop multiple languages; Papua New Guinea, for example, boasts about 840 separate languages\napproximately 2,300 languages are spoken in Asia, 2,140, in Africa, 1,310 in the Pacific, 1,060 in the Americas, and 290 in Europe (2018)",
+   		   "date": "2018"
+   		 },
+   		 "religions": {
+   		   "religion": [
+   			 {
+   			   "name": "Christian",
+   			   "percent": 31.4
+   			 },
+   			 {
+   			   "name": "Muslim",
+   			   "percent": 23.2
+   			 },
+   			 {
+   			   "name": "Hindu",
+   			   "percent": 15
+   			 },
+   			 {
+   			   "name": "Buddhist",
+   			   "percent": 7.1
+   			 },
+   			 {
+   			   "name": "folk religions",
+   			   "percent": 5.9
+   			 },
+   			 {
+   			   "name": "Jewish",
+   			   "percent": 0.2
+   			 },
+   			 {
+   			   "name": "other",
+   			   "percent": 0.8
+   			 },
+   			 {
+   			   "name": "unaffiliated",
+   			   "percent": 16.4
+   			 }
+   		   ]
+   		 },
+   		 "age_structure": {
+   		   "0_to_14": {
+   			 "percent": 25.29,
+   			 "males": 981129427,
+   			 "females": 916864766
+   		   },
+   		   "15_to_24": {
+   			 "percent": 15.77,
+   			 "males": 611245863,
+   			 "females": 572115168
+   		   },
+   		   "25_to_54": {
+   			 "percent": 41.03,
+   			 "males": 1559197242,
+   			 "females": 1519386627
+   		   },
+   		   "55_to_64": {
+   			 "percent": 8.84,
+   			 "males": 324134030,
+   			 "females": 339551038
+   		   },
+   		   "65_and_over": {
+   			 "percent": 9.06,
+   			 "males": 303788086,
+   			 "females": 376415933
+   		   },
+   		   "date": "2018"
+   		 },
+   		 "dependency_ratios": {
+   		   "ratios": {
+   			 "total_dependency_ratio": {
+   			   "value": 52.5,
+   			   "units": "%"
+   			 },
+   			 "youth_dependency_ratio": {
+   			   "value": 39.9,
+   			   "units": "%"
+   			 },
+   			 "elderly_dependency_ratio": {
+   			   "value": 12.6,
+   			   "units": "%"
+   			 },
+   			 "potential_support_ratio": {
+   			   "value": 7.9,
+   			   "units": "%"
+   			 }
+   		   },
+   		   "date": "2015"
+   		 },
+   		 "median_age": {
+   		   "total": {
+   			 "value": 30.6,
+   			 "units": "years"
+   		   },
+   		   "male": {
+   			 "value": 29.9,
+   			 "units": "years"
+   		   },
+   		   "female": {
+   			 "value": 31.4,
+   			 "units": "years"
+   		   },
+   		   "date": "2018"
+   		 },
+   		 "population_growth_rate": {
+   		   "growth_rate": 1.05,
+   		   "date": "2018"
+   		 },
+   		 "birth_rate": {
+   		   "births_per_1000_population": 18.2,
+   		   "date": "2018"
+   		 },
+   		 "death_rate": {
+   		   "deaths_per_1000_population": 7.7,
+   		   "date": "2018"
+   		 },
+   		 "population_distribution": "six of the world's seven continents are widely and permanently inhabited; Asia is easily the most populous continent with about 60% of the world's population (China and India together account for over 35%); Africa comes in second with over 15% of the earth's populace, Europe has about 10%, North America 8%, South America almost 6%, and Oceania less than 1%; the harsh conditions on Antarctica prevent any permanent habitation",
+   		 "urbanization": {
+   		   "urban_population": {
+   			 "value": 55.3,
+   			 "units": "%",
+   			 "date": "2017"
+   		   },
+   		   "rate_of_urbanization": {
+   			 "value": 1.9,
+   			 "units": "%",
+   			 "date": "2017"
+   		   },
+   		   "ten_largest_urban_agglomerations": {
+   			 "by_population": [
+   			   {
+   				 "city": "Tokyo ",
+   				 "country": "Japan",
+   				 "population": 38241000
+   			   },
+   			   {
+   				 "city": "New Delhi ",
+   				 "country": "India",
+   				 "population": 27197000
+   			   },
+   			   {
+   				 "city": "Shanghai ",
+   				 "country": "China",
+   				 "population": 25202000
+   			   },
+   			   {
+   				 "city": "Beijing ",
+   				 "country": "China",
+   				 "population": 22063000
+   			   },
+   			   {
+   				 "city": "Mumbai ",
+   				 "country": "India",
+   				 "population": 21690000
+   			   },
+   			   {
+   				 "city": "Sao Paulo ",
+   				 "country": "Brazil",
+   				 "population": 21519000
+   			   },
+   			   {
+   				 "city": "Mexico City ",
+   				 "country": "Mexico",
+   				 "population": 21321000
+   			   },
+   			   {
+   				 "city": "Osaka ",
+   				 "country": "Japan",
+   				 "population": 20415000
+   			   },
+   			   {
+   				 "city": "Cairo ",
+   				 "country": "Egypt",
+   				 "population": 19486000
+   			   },
+   			   {
+   				 "city": "Dhaka ",
+   				 "country": "Bangladesh",
+   				 "population": 18898000
+   			   }
+   			 ],
+   			 "date": "2017"
+   		   }
+   		 },
+   		 "sex_ratio": {
+   		   "by_age": {
+   			 "at_birth": {
+   			   "value": 1.07,
+   			   "units": "males/female"
+   			 },
+   			 "0_to_14_years": {
+   			   "value": 1.07,
+   			   "units": "males/female"
+   			 },
+   			 "15_to_24_years": {
+   			   "value": 1.07,
+   			   "units": "males/female"
+   			 },
+   			 "25_to_54_years": {
+   			   "value": 1.03,
+   			   "units": "males/female"
+   			 },
+   			 "55_to_64_years": {
+   			   "value": 0.95,
+   			   "units": "males/female"
+   			 },
+   			 "65_years_and_over": {
+   			   "value": 0.81,
+   			   "units": "males/female"
+   			 }
+   		   },
+   		   "total_population": {
+   			 "value": 1.01,
+   			 "units": "males/female"
+   		   },
+   		   "date": "2018"
+   		 },
+   		 "maternal_mortality_rate": {
+   		   "deaths_per_100k_live_births": 216,
+   		   "date": "2015"
+   		 },
+   		 "infant_mortality_rate": {
+   		   "total": {
+   			 "value": 32,
+   			 "units": "deaths_per_1000_live_births"
+   		   },
+   		   "male": {
+   			 "value": 34,
+   			 "units": "deaths_per_1000_live_births"
+   		   },
+   		   "female": {
+   			 "value": 29.9,
+   			 "units": "deaths_per_1000_live_births"
+   		   },
+   		   "date": "2018"
+   		 },
+   		 "life_expectancy_at_birth": {
+   		   "total_population": {
+   			 "value": 69.8,
+   			 "units": "years"
+   		   },
+   		   "male": {
+   			 "value": 67.8,
+   			 "units": "years"
+   		   },
+   		   "female": {
+   			 "value": 72,
+   			 "units": "years"
+   		   },
+   		   "date": "2018"
+   		 },
+   		 "total_fertility_rate": {
+   		   "children_born_per_woman": 2.42,
+   		   "date": "2018"
+   		 },
+   		 "drinking_water_source": {
+   		   "improved": {
+   			 "urban": {
+   			   "value": 96.5,
+   			   "units": "percent of population"
+   			 },
+   			 "rural": {
+   			   "value": 84.7,
+   			   "units": "percent of population"
+   			 },
+   			 "total": {
+   			   "value": 91.1,
+   			   "units": "percent of population"
+   			 }
+   		   },
+   		   "unimproved": {
+   			 "urban": {
+   			   "value": 3.5,
+   			   "units": "percent of population"
+   			 },
+   			 "rural": {
+   			   "value": 15.3,
+   			   "units": "percent of population"
+   			 },
+   			 "total": {
+   			   "value": 8.9,
+   			   "units": "percent of population"
+   			 }
+   		   },
+   		   "date": "2015"
+   		 },
+   		 "sanitation_facility_access": {
+   		   "improved": {
+   			 "urban": {
+   			   "value": 82.3,
+   			   "units": "percent of population"
+   			 },
+   			 "rural": {
+   			   "value": 50.5,
+   			   "units": "percent of population"
+   			 },
+   			 "total": {
+   			   "value": 67.7,
+   			   "units": "percent of population"
+   			 }
+   		   },
+   		   "unimproved": {
+   			 "urban": {
+   			   "value": 17.7,
+   			   "units": "percent of population"
+   			 },
+   			 "rural": {
+   			   "value": 49.5,
+   			   "units": "percent of population"
+   			 },
+   			 "total": {
+   			   "value": 32.3,
+   			   "units": "percent of population"
+   			 }
+   		   },
+   		   "date": "2015"
+   		 },
+   		 "hiv_aids": {
+   		   "adult_prevalence_rate": {
+   			 "percent_of_adults": 0.8,
+   			 "date": "2017"
+   		   },
+   		   "people_living_with_hiv_aids": {
+   			 "total": 36900000,
+   			 "date": "2017"
+   		   },
+   		   "deaths": {
+   			 "total": 940000,
+   			 "date": "2017"
+   		   }
+   		 },
+   		 "literacy": {
+   		   "definition": "age 15 and over can read and write",
+   		   "total_population": {
+   			 "value": 86.2,
+   			 "units": "%"
+   		   },
+   		   "male": {
+   			 "value": 89.8,
+   			 "units": "%"
+   		   },
+   		   "female": {
+   			 "value": 82.6,
+   			 "units": "%"
+   		   },
+   		   "note": "more than three-quarters of the world's 750 million illiterate adults are found in South Asia and sub-Saharan Africa; of all the illiterate adults in the world, almost two-thirds are women (2016)",
+   		   "date": "2016"
+   		 },
+   		 "school_life_expectancy": {
+   		   "total": {
+   			 "value": 12,
+   			 "units": "years"
+   		   },
+   		   "male": {
+   			 "value": 12,
+   			 "units": "years"
+   		   },
+   		   "female": {
+   			 "value": 12,
+   			 "units": "years"
+   		   },
+   		   "date": "2017"
+   		 }
+   	   },
+   	   "government": {
+   		 "capital": {
+   		   "there_are_21_world_entities_20_countries_and_1_dependency_with_multiple_time_zones": "Australia, Brazil, Canada, Chile, Democratic Republic of Congo, Ecuador, France, Greenland, Indonesia, Kazakhstan, Kiribati, Mexico, Micronesia, Mongolia, Netherlands, New Zealand, Papua New Guinea, Portugal, Russia, Spain, United States",
+   		   "note": "in some instances, the time zones pertain to portions of a country that lie overseas"
+   		 },
+   		 "legal_system": "the legal systems of nearly all countries are generally modeled upon elements of five main types: civil law (including French law, the Napoleonic Code, Roman law, Roman-Dutch law, and Spanish law); common law (including English and US law); customary law; mixed or pluralistic law; and religious law (including Islamic law); an additional type of legal system - international law - governs the conduct of independent nations in their relationships with one another",
+   		 "international_law_organization_participation": [
+   		   "all members of the UN are parties to the statute that established the International Court of Justice (ICJ) or World Court",
+   		   "62 countries have accepted jurisdiction of the ICJ as compulsory with reservations and 12 countries have accepted ICJ jurisdiction as compulsory without reservations",
+   		   "states parties to the Rome Statute of the International Criminal Court (ICCt) are those countries that have ratified or acceded to the Rome Statute, the treaty that established the Court",
+   		   "a total of 123 (as of October 2017) countries have accepted jurisdiction of the ICCt (see Appendix B for a clarification on the differing mandates of the ICJ and ICCt)"
+   		 ],
+   		 "flag_description": {
+   		   "note": "the flags of 12 nations: Austria, Botswana, Georgia, Jamaica, Japan, Laos, Latvia, Macedonia, Micronesia, Nigeria, Switzerland, and Thailand have no top or bottom and may be flown with either long edge on top without any notice being taken"
+   		 }
+   	   },
+   	   "economy": {
+   		 "overview": "The international financial crisis of 2008-09 led to the first downturn in global output since 1946 and presented the world with a major new challenge: determining what mix of fiscal and monetary policies to follow to restore growth and jobs, while keeping inflation and debt under control. Financial stabilization and stimulus programs that started in 2009-11, combined with lower tax revenues in 2009-10, required most countries to run large budget deficits. Treasuries issued new public debt - totaling $9.1 trillion since 2008 - to pay for the additional expenditures. To keep interest rates low, most central banks monetized that debt, injecting large sums of money into their economies - between December 2008 and December 2013 the global money supply increased by more than 35%. Governments are now faced with the difficult task of spurring current growth and employment without saddling their economies with so much debt that they sacrifice long-term growth and financial stability. When economic activity picks up, central banks will confront the difficult task of containing inflation without raising interest rates so high they snuff out further growth.\nFiscal and monetary data for 2013 are currently available for 180 countries, which together account for 98.5% of world GDP. Of the 180 countries, 82 pursued unequivocally expansionary policies, boosting government spending while also expanding their money supply relatively rapidly - faster than the world average of 3.1%; 28 followed restrictive fiscal and monetary policies, reducing government spending and holding money growth to less than the 3.1% average; and the remaining 70 followed a mix of counterbalancing fiscal and monetary policies, either reducing government spending while accelerating money growth, or boosting spending while curtailing money growth. (For more information, see attached spreadsheet.)\nIn 2013, for many countries the drive for fiscal austerity that began in 2011 abated. While 5 out of 6 countries slowed spending in 2012, only 1 in 2 countries slowed spending in 2013. About 1 in 3 countries actually lowered the level of their expenditures. The global growth rate for government expenditures increased from 1.6% in 2012 to 5.1% in 2013, after falling from a 10.1% growth rate in 2011. On the other hand, nearly 2 out of 3 central banks tightened monetary policy in 2013, decelerating the rate of growth of their money supply, compared with only 1 out of 3 in 2012. Roughly 1 of 4 central banks actually withdrew money from circulation, an increase from 1 out of 7 in 2012. Growth of the global money supply, as measured by the narrowly defined M1, slowed from 8.7% in 2009 and 10.4% in 2010 to 5.2% in 2011, 4.6% in 2012, and 3.1% in 2013. Several notable shifts occurred in 2013. By cutting government expenditures and expanding money supplies, the US and Canada moved against the trend in the rest of the world. France reversed course completely. Rather than reducing expenditures and money as it had in 2012, it expanded both. Germany reversed its fiscal policy, sharply expanding federal spending, while continuing to grow the money supply. South Korea shifted monetary policy into high gear, while maintaining a strongly expansionary fiscal policy. Japan, however, continued to pursue austere fiscal and monetary policies.\nAustere economic policies have significantly affected economic performance. The global budget deficit narrowed to roughly $2.7 trillion in 2012 and $2.1 trillion in 2013, or 3.8% and 2.5% of World GDP, respectively. But growth of the world economy slipped from 5.1% in 2010 and 3.7% in 2011, to just 3.1% in 2012, and 2.9% in 2013.\nCountries with expansionary fiscal and monetary policies achieved significantly higher rates of growth, higher growth of tax revenues, and greater success reducing the public debt burden than those countries that chose contractionary policies. In 2013, the 82 countries that followed a pro-growth approach achieved a median GDP growth rate of 4.7%, compared to 1.7% for the 28 countries with restrictive fiscal and monetary policies, a difference of 3 percentage points. Among the 82, China grew 7.7%, Philippines 6.8%, Malaysia 4.7%, Pakistan and Saudi Arabia 3.6%, Argentina 3.5%, South Korea 2.8%, and Russia 1.3%, while among the 28, Brazil grew 2.3%, Japan 2.0%, South Africa 2.0%, Netherlands -0.8%, Croatia -1.0%, Iran -1.5%, Portugal -1.8%, Greece -3.8%, and Cyprus -8.7%.\nFaster GDP growth and lower unemployment rates translated into increased tax revenues and a less cumbersome debt burden. Revenues for the 82 expansionary countries grew at a median rate of 10.7%, whereas tax revenues fell at a median rate of 6.8% for the 28 countries that chose austere economic policies. Budget balances improved for about three-quarters of the 28, but, for most, debt grew faster than GDP, and the median level of their public debt as a share of GDP increased 9.1 percentage points, to 59.2%. On the other hand, budget balances deteriorated for most of the 82 pro-growth countries, but GDP growth outpaced increases in debt, and the median level of public debt as a share of GDP increased just 1.9%, to 39.8%.\nThe world recession has suppressed inflation rates - world inflation declined 1.0 percentage point in 2012 to about 4.1% and 0.2 percentage point to 3.9% in 2013. In 2013 the median inflation rate for the 82 pro-growth countries was 1.3 percentage points higher than that for the countries that followed more austere fiscal and monetary policies. Overall, the latter countries also improved their current account balances by shedding imports; as a result, current account balances deteriorated for most of the countries that pursued pro-growth policies. Slow growth of world income continued to hold import demand in check and crude oil prices fell. Consequently, the dollar value of world trade grew just 1.3% in 2013.\nBeyond the current global slowdown, the world faces several long standing economic challenges. The addition of 80 million people each year to an already overcrowded globe is exacerbating the problems of pollution, waste-disposal, epidemics, water-shortages, famine, over-fishing of oceans, deforestation, desertification, and depletion of non-renewable resources. The nation-state, as a bedrock economic-political institution, is steadily losing control over international flows of people, goods, services, funds, and technology. The introduction of the euro as the common currency of much of Western Europe in January 1999, while paving the way for an integrated economic powerhouse, has created economic risks because the participating nations have varying income levels and growth rates, and hence, require a different mix of monetary and fiscal policies. Governments, especially in Western Europe, face the difficult political problem of channeling resources away from welfare programs in order to increase investment and strengthen incentives to seek employment. Because of their own internal problems and priorities, the industrialized countries are unable to devote sufficient resources to deal effectively with the poorer areas of the world, which, at least from an economic point of view, are becoming further marginalized. The terrorist attacks on the US on 11 September 2001 accentuated a growing risk to global prosperity - the diversion of resources away from capital investments to counter-terrorism programs.\nDespite these vexing problems, the world economy also shows great promise. Technology has made possible further advances in a wide range of fields, from agriculture, to medicine, alternative energy, metallurgy, and transportation. Improved global communications have greatly reduced the costs of international trade, helping the world gain from the international division of labor, raise living standards, and reduce income disparities among nations. Much of the resilience of the world economy in the aftermath of the financial crisis resulted from government and central bank leaders around the globe working in concert to stem the financial onslaught, knowing well the lessons of past economic failures.\nFiscal and Monetary Data, 2008-2012: Spreadsheet",
+   		 "gdp": {
+   		   "purchasing_power_parity": {
+   			 "annual_values": [
+   			   {
+   				 "value": 127800000000000,
+   				 "units": "USD",
+   				 "date": "2017"
+   			   },
+   			   {
+   				 "value": 123300000000000,
+   				 "units": "USD",
+   				 "date": "2016"
+   			   },
+   			   {
+   				 "value": 119500000000000,
+   				 "units": "USD",
+   				 "date": "2015"
+   			   }
+   			 ],
+   			 "note": "data are in 2017 dollars"
+   		   },
+   		   "official_exchange_rate": {
+   			 "USD": 80270000000000,
+   			 "date": "2017"
+   		   },
+   		   "real_growth_rate": {
+   			 "annual_values": [
+   			   {
+   				 "value": 3.7,
+   				 "units": "%",
+   				 "date": "2017"
+   			   },
+   			   {
+   				 "value": 3.2,
+   				 "units": "%",
+   				 "date": "2016"
+   			   },
+   			   {
+   				 "value": 3.3,
+   				 "units": "%",
+   				 "date": "2014"
+   			   }
+   			 ]
+   		   },
+   		   "per_capita_purchasing_power_parity": {
+   			 "annual_values": [
+   			   {
+   				 "value": 17500,
+   				 "units": "USD",
+   				 "date": "2017"
+   			   },
+   			   {
+   				 "value": 17000,
+   				 "units": "USD",
+   				 "date": "2016"
+   			   },
+   			   {
+   				 "value": 16800,
+   				 "units": "USD",
+   				 "date": "2015"
+   			   }
+   			 ],
+   			 "note": "data are in 2017 dollars"
+   		   },
+   		   "composition": {
+   			 "by_end_use": {
+   			   "end_uses": {
+   				 "household_consumption": {
+   				   "value": 56.4,
+   				   "units": "%"
+   				 },
+   				 "government_consumption": {
+   				   "value": 16.1,
+   				   "units": "%"
+   				 },
+   				 "investment_in_fixed_capital": {
+   				   "value": 25.7,
+   				   "units": "%"
+   				 },
+   				 "investment_in_inventories": {
+   				   "value": 1.4,
+   				   "units": "%"
+   				 },
+   				 "exports_of_goods_and_services": {
+   				   "value": 28.8,
+   				   "units": "%"
+   				 },
+   				 "imports_of_goods_and_services": {
+   				   "value": -28.3,
+   				   "units": "%"
+   				 }
+   			   },
+   			   "date": "2017"
+   			 },
+   			 "by_sector_of_origin": {
+   			   "sectors": {
+   				 "agriculture": {
+   				   "value": 6.4,
+   				   "units": "%"
+   				 },
+   				 "industry": {
+   				   "value": 30,
+   				   "units": "%"
+   				 },
+   				 "services": {
+   				   "value": 63,
+   				   "units": "%"
+   				 }
+   			   },
+   			   "date": "2017"
+   			 }
+   		   }
+   		 },
+   		 "gross_national_saving": {
+   		   "annual_values": [
+   			 {
+   			   "value": 27.9,
+   			   "units": "percent_of_gdp",
+   			   "date": "2017"
+   			 },
+   			 {
+   			   "value": 27.4,
+   			   "units": "percent_of_gdp",
+   			   "date": "2016"
+   			 },
+   			 {
+   			   "value": 27.8,
+   			   "units": "percent_of_gdp",
+   			   "date": "2015"
+   			 }
+   		   ]
+   		 },
+   		 "industries": {
+   		   "note": "dominated by the onrush of technology, especially in computers, robotics, telecommunications, medicines and medical equipment; most of these advances take place in OECD nations; only a small portion of non-OECD countries have succeeded in rapidly adjusting to these technological forces; the accelerated development of new technologies is complicating already grim environmental problems"
+   		 },
+   		 "industrial_production_growth_rate": {
+   		   "annual_percentage_increase": 3.2,
+   		   "date": "2017"
+   		 },
+   		 "labor_force": {
+   		   "total_size": {
+   			 "total_people": 3432000000,
+   			 "date": "2017"
+   		   },
+   		   "by_occupation": {
+   			 "occupation": {
+   			   "agriculture": {
+   				 "value": 31,
+   				 "units": "%"
+   			   },
+   			   "industry": {
+   				 "value": 23.5,
+   				 "units": "%"
+   			   },
+   			   "services": {
+   				 "value": 45.5,
+   				 "units": "%"
+   			   }
+   			 },
+   			 "date": "2014"
+   		   }
+   		 },
+   		 "unemployment_rate": {
+   		   "annual_values": [
+   			 {
+   			   "value": 7.7,
+   			   "units": "%",
+   			   "date": "2017"
+   			 },
+   			 {
+   			   "value": 7.5,
+   			   "units": "%",
+   			   "date": "2016"
+   			 }
+   		   ]
+   		 },
+   		 "household_income_by_percentage_share": {
+   		   "lowest_ten_percent": {
+   			 "value": 2.6,
+   			 "units": "%"
+   		   },
+   		   "highest_ten_percent": {
+   			 "value": 30.2,
+   			 "units": "%"
+   		   },
+   		   "date": "2008"
+   		 },
+   		 "distribution_of_family_income": {
+   		   "annual_values": [
+   			 {
+   			   "value": 37.9,
+   			   "units": "gini_index",
+   			   "date": "2012"
+   			 },
+   			 {
+   			   "value": 37.9,
+   			   "units": "gini_index",
+   			   "date": "2005"
+   			 }
+   		   ]
+   		 },
+   		 "budget": {
+   		   "revenues": {
+   			 "value": 21680000000000,
+   			 "units": "USD"
+   		   },
+   		   "expenditures": {
+   			 "value": 23810000000000,
+   			 "units": "USD"
+   		   },
+   		   "date": "2017"
+   		 },
+   		 "taxes_and_other_revenues": {
+   		   "percent_of_gdp": 26.7,
+   		   "date": "2016"
+   		 },
+   		 "budget_surplus_or_deficit": {
+   		   "percent_of_gdp": -3,
+   		   "date": "2016"
+   		 },
+   		 "public_debt": {
+   		   "annual_values": [
+   			 {
+   			   "value": 67.2,
+   			   "units": "percent_of_gdp",
+   			   "date": "2017"
+   			 },
+   			 {
+   			   "value": 67.2,
+   			   "units": "percent_of_gdp",
+   			   "date": "2016"
+   			 }
+   		   ]
+   		 },
+   		 "inflation_rate": {
+   		   "annual_values": [
+   			 {
+   			   "value": 6.4,
+   			   "units": "%",
+   			   "date": "2017"
+   			 },
+   			 {
+   			   "value": 3.7,
+   			   "units": "%",
+   			   "date": "2016"
+   			 },
+   			 {
+   			   "value": 1.9,
+   			   "units": "%",
+   			   "date": "2017"
+   			 },
+   			 {
+   			   "value": 8.8,
+   			   "units": "%",
+   			   "date": "2017"
+   			 },
+   			 {
+   			   "value": 0,
+   			   "units": "%"
+   			 }
+   		   ]
+   		 },
+   		 "stock_of_narrow_money": {
+   		   "annual_values": [
+   			 {
+   			   "value": 34400000000000,
+   			   "units": "USD",
+   			   "date": "2017-12-31"
+   			 },
+   			 {
+   			   "value": 30170000000000,
+   			   "units": "USD",
+   			   "date": "2016-12-31"
+   			 }
+   		   ]
+   		 },
+   		 "stock_of_broad_money": {
+   		   "annual_values": [
+   			 {
+   			   "value": 86470000000000,
+   			   "units": "USD",
+   			   "date": "2017-12-31"
+   			 },
+   			 {
+   			   "value": 77710000000000,
+   			   "units": "USD",
+   			   "date": "2016-12-31"
+   			 }
+   		   ]
+   		 },
+   		 "stock_of_domestic_credit": {
+   		   "annual_values": [
+   			 {
+   			   "value": 111700000000000,
+   			   "units": "USD",
+   			   "date": "2017-12-31"
+   			 },
+   			 {
+   			   "value": 100400000000000,
+   			   "units": "USD",
+   			   "date": "2016-12-31"
+   			 }
+   		   ]
+   		 },
+   		 "market_value_of_publicly_traded_shares": {
+   		   "annual_values": [
+   			 {
+   			   "value": 67470000000000,
+   			   "units": "USD",
+   			   "date": "2015-12-31"
+   			 },
+   			 {
+   			   "value": 68510000000000.01,
+   			   "units": "USD",
+   			   "date": "2014-12-31"
+   			 },
+   			 {
+   			   "value": 68370000000000.01,
+   			   "units": "USD",
+   			   "date": "2013-12-31"
+   			 }
+   		   ]
+   		 },
+   		 "exports": {
+   		   "total_value": {
+   			 "annual_values": [
+   			   {
+   				 "value": 17309999999999.998,
+   				 "units": "USD",
+   				 "date": "2017"
+   			   },
+   			   {
+   				 "value": 15820000000000,
+   				 "units": "USD",
+   				 "date": "2016"
+   			   }
+   			 ]
+   		   },
+   		   "commodities": {
+   			 "by_commodity": [
+   			   "14.8 electrical machinery",
+   			   "computers",
+   			   "14.4 mineral fuels",
+   			   "oil",
+   			   "coal",
+   			   "gas",
+   			   "refined products",
+   			   "14.2 nuclear reactors",
+   			   "boilers",
+   			   "parts",
+   			   "8.9 cars",
+   			   "trucks",
+   			   "buses",
+   			   "3.5 scientific",
+   			   "precision instruments",
+   			   "3.4 plastics",
+   			   "2.7 iron",
+   			   "steel",
+   			   "2.6 organic chemicals",
+   			   "2.6 pharmaceutical products",
+   			   "1.9 diamonds",
+   			   "pearls",
+   			   "precious stones"
+   			 ],
+   			 "date": "2007"
+   		   }
+   		 },
+   		 "imports": {
+   		   "total_value": {
+   			 "annual_values": [
+   			   {
+   				 "value": 20010000000000,
+   				 "units": "USD",
+   				 "date": "2018"
+   			   },
+   			   {
+   				 "value": 16020000000000,
+   				 "units": "USD",
+   				 "date": "2017"
+   			   }
+   			 ]
+   		   },
+   		   "commodities": {
+   			 "by_commodity": [
+   			   "14.8 electrical machinery",
+   			   "computers",
+   			   "14.4 mineral fuels",
+   			   "oil",
+   			   "coal",
+   			   "gas",
+   			   "refined products",
+   			   "14.2 nuclear reactors",
+   			   "boilers",
+   			   "parts",
+   			   "8.9 cars",
+   			   "trucks",
+   			   "buses",
+   			   "3.5 scientific",
+   			   "precision instruments",
+   			   "3.4 plastics",
+   			   "2.7 iron",
+   			   "steel",
+   			   "2.6 organic chemicals",
+   			   "2.6 pharmaceutical products",
+   			   "1.9 diamonds",
+   			   "pearls",
+   			   "precious stones"
+   			 ],
+   			 "date": "2007"
+   		   }
+   		 },
+   		 "external_debt": {
+   		   "annual_values": [
+   			 {
+   			   "value": 76560000000000,
+   			   "units": "USD",
+   			   "date": "2017-12-31"
+   			 },
+   			 {
+   			   "value": 75090000000000,
+   			   "units": "USD",
+   			   "date": "2016-12-31"
+   			 }
+   		   ],
+   		   "note": "this figure is the sum total of all countries' external debt, both public and private"
+   		 },
+   		 "stock_of_direct_foreign_investment": {
+   		   "at_home": {
+   			 "annual_values": [
+   			   {
+   				 "value": 33600000000000,
+   				 "units": "USD",
+   				 "date": "2017-12-31"
+   			   },
+   			   {
+   				 "value": 31620000000000,
+   				 "units": "USD",
+   				 "date": "2016-12-31"
+   			   }
+   			 ]
+   		   },
+   		   "abroad": {
+   			 "annual_values": [
+   			   {
+   				 "value": 34729999999999.996,
+   				 "units": "USD",
+   				 "date": "2017-12-31"
+   			   },
+   			   {
+   				 "value": 32939999999999.996,
+   				 "units": "USD",
+   				 "date": "2016-12-31"
+   			   }
+   			 ]
+   		   }
+   		 }
+   	   },
+   	   "energy": {
+   		 "electricity": {
+   		   "access": {
+   			 "population_without_electricity": {
+   			   "value": 1201000000,
+   			   "units": "people"
+   			 },
+   			 "total_electrification": {
+   			   "value": 83,
+   			   "units": "%"
+   			 },
+   			 "urban_electrification": {
+   			   "value": 95,
+   			   "units": "%"
+   			 },
+   			 "rural_electrification": {
+   			   "value": 70,
+   			   "units": "%"
+   			 },
+   			 "date": "2013"
+   		   },
+   		   "production": {
+   			 "kWh": 23650000000000,
+   			 "date": "2015"
+   		   },
+   		   "consumption": {
+   			 "kWh": 21780000000000,
+   			 "date": "2015"
+   		   },
+   		   "exports": {
+   			 "kWh": 696100000000,
+   			 "date": "2016"
+   		   },
+   		   "imports": {
+   			 "kWh": 721900000000,
+   			 "date": "2016"
+   		   },
+   		   "installed_generating_capacity": {
+   			 "kW": 6386000000,
+   			 "date": "2015"
+   		   },
+   		   "by_source": {
+   			 "fossil_fuels": {
+   			   "percent": 63,
+   			   "date": "2015"
+   			 },
+   			 "nuclear_fuels": {
+   			   "percent": 6,
+   			   "date": "2015"
+   			 },
+   			 "hydroelectric_plants": {
+   			   "percent": 18,
+   			   "date": "2015"
+   			 },
+   			 "other_renewable_sources": {
+   			   "percent": 14,
+   			   "date": "2015"
+   			 }
+   		   }
+   		 },
+   		 "crude_oil": {
+   		   "production": {
+   			 "bbl_per_day": 80770000,
+   			 "date": "2016"
+   		   },
+   		   "exports": {
+   			 "bbl_per_day": 43570000,
+   			 "date": "2014"
+   		   },
+   		   "imports": {
+   			 "bbl_per_day": 44580000,
+   			 "date": "2014"
+   		   },
+   		   "proved_reserves": {
+   			 "bbl": 1665000000000,
+   			 "date": "2017-01-01"
+   		   }
+   		 },
+   		 "refined_petroleum_products": {
+   		   "production": {
+   			 "bbl_per_day": 88400000,
+   			 "date": "2014"
+   		   },
+   		   "consumption": {
+   			 "bbl_per_day": 96260000,
+   			 "date": "2015"
+   		   },
+   		   "exports": {
+   			 "bbl_per_day": 29660000,
+   			 "date": "2014"
+   		   },
+   		   "imports": {
+   			 "bbl_per_day": 28620000,
+   			 "date": "2014"
+   		   }
+   		 },
+   		 "natural_gas": {
+   		   "production": {
+   			 "cubic_metres": 3481000000000,
+   			 "date": "2015"
+   		   },
+   		   "consumption": {
+   			 "cubic_metres": 3477000000000,
+   			 "date": "2015"
+   		   },
+   		   "exports": {
+   			 "cubic_metres": 1156000000000,
+   			 "date": "2013"
+   		   },
+   		   "imports": {
+   			 "cubic_metres": 1496000000000,
+   			 "date": "2013"
+   		   },
+   		   "proved_reserves": {
+   			 "cubic_metres": 196100000000000,
+   			 "date": "2016-01-01"
+   		   }
+   		 },
+   		 "carbon_dioxide_emissions_from_consumption_of_energy": {
+   		   "megatonnes": 33619999999.999996,
+   		   "date": "2013"
+   		 }
+   	   },
+   	   "communications": {
+   		 "telephones": {
+   		   "fixed_lines": {
+   			 "total_subscriptions": 984289950,
+   			 "subscriptions_per_one_hundred_inhabitants": 1,
+   			 "date": "2017"
+   		   },
+   		   "mobile_cellular": {
+   			 "total_subscriptions": 7806142681,
+   			 "subscriptions_per_one_hundred_inhabitants": 105,
+   			 "date": "2017"
+   		   }
+   		 },
+   		 "internet": {
+   		   "users": {
+   			 "total": 3174000000,
+   			 "percent_of_population": 43,
+   			 "top_ten_countries_by_internet_usage_in_millions": 730.7,
+   			 "date": "2018"
+   		   }
+   		 },
+   		 "note": "three major data centers - which provide colocation, telecommunications, cloud services, and content ecosystems - compete to be called the world's biggest in terms of physical space occupied: no. 1. - a data farm in Langfang, Hebei Province, China, identified as the Range International Information Group, claims to be the largest with 585,000 sq m (6.3 million sq ft),\nno. 2. - a data farm in Las Vegas, Nevada, USA, known as the Switch SuperNAP data center, comes in second with over 325,000 sq m (3.5 million sq ft); it intends to expand to over 1.615 million sq m (17.4 million sq ft) by 2020,\nno. 3. - a data farm in Ashburn, Virginia, USA, referred to as the DFT Data Center, is a transit point for 70% of the world's Internet traffic; it includes 150,000 sq m (1.6 million sq ft) spread out over six separate buildings"
+   	   },
+   	   "transportation": {
+   		 "air_transport": {
+   		   "airports": {
+   			 "total": {
+   			   "airports": 41820,
+   			   "date": "2016"
+   			 }
+   		   },
+   		   "heliports": {
+   			 "total": 6524,
+   			 "date": "2013"
+   		   }
+   		 },
+   		 "railways": {
+   		   "total": {
+   			 "length": 1148186,
+   			 "units": "km"
+   		   },
+   		   "date": "2013"
+   		 },
+   		 "roadways": {
+   		   "total": {
+   			 "value": 64285009,
+   			 "units": "km"
+   		   },
+   		   "date": "2013"
+   		 },
+   		 "waterways": {
+   		   "value": 2293412,
+   		   "units": "km",
+   		   "note": "the areas of the lakes are subject to seasonal variation; only the Caspian Sea is saline, the rest are fresh water\nLakes Huron and Michigan are technically a single lake because the flow of water between the Straits of Mackinac that connects the two lakes keeps their water levels at near-equilibrium; combined, Lake Huron-Michigan is the largest freshwater lake by surface area in the world",
+   		   "top_ten_longest_rivers": "note: rivers are not necessarily navigable along the entire length; if measured by volume, the Amazon is the largest river in the world, responsible for about 20% of the Earth's freshwater entering the ocean",
+   		   "top_ten_largest_natural_lakes": "Caspian Sea  372,960 sq km; Lake Superior  82,414 sq km; Lake Victoria  69,490 sq km; Lake Huron  59,596 sq km; Lake Michigan  57,441 sq km; Lake Tanganyika  32,890 sq km; Great Bear Lake  31,800 sq km; Lake Baikal  31,494 sq km; Lake Nyasa  30,044 sq km; Great Slave Lake  28,400 sq km",
+   		   "date": "2017"
+   		 },
+   		 "merchant_marine": {
+   		   "total": 92647,
+   		   "by_type": [
+   			 {
+   			   "type": "bulk carrier",
+   			   "count": 11115
+   			 },
+   			 {
+   			   "type": "container ship",
+   			   "count": 5145
+   			 },
+   			 {
+   			   "type": "general cargo",
+   			   "count": 19128
+   			 },
+   			 {
+   			   "type": "oil tanker",
+   			   "count": 10252
+   			 },
+   			 {
+   			   "type": "other",
+   			   "count": 47007
+   			 }
+   		   ],
+   		   "date": "2018"
+   		 },
+   		 "ports_and_terminals": {
+   		   "top_twenty_container_ports_as_measured_by_twenty_foot_equivalent_units_throughput": "Shanghai (China) - 40,233,000; Singapore (Singapore) - 33,666,000; Shenzhen (China) - 25,208,000; Ningbo (China) - 24,607,000; Hong Kong (China) - 20,770,000; Busan (South Korea) - 20,493,000; Guangzhou (China) - 18,858,000; Qingdao (China) - 18,262,000; Dubai (UAE) - 15,368,000; - Tianjin (China) - 15,040,000; Rotterdam (Netherlands) - 13,734,000; Port Kelang (Malaysia) - 11,978,000; Antwerp (Belgium) - 10,450,000; Xiamen (China) - 10,380,000; Kaohsiung (Taiwan) - 10,271,000; Dalian (China) - 9,707,000; Los Angeles (US) - 9,343,000; Hamburg (Germany) - 8,860,000; Tanjung Pelepas (Malaysia) - 8,260,000; Laem Chabang (Thailand) - 7,227,000",
+   		   "date": "2017"
+   		 }
+   	   },
+   	   "military_and_security": {
+   		 "expenditures": {
+   		   "annual_values": [
+   			 {
+   			   "value": 2.22,
+   			   "units": "percent_of_gdp",
+   			   "date": "2016"
+   			 },
+   			 {
+   			   "value": 2.27,
+   			   "units": "percent_of_gdp",
+   			   "date": "2015"
+   			 },
+   			 {
+   			   "value": 2.26,
+   			   "units": "percent_of_gdp",
+   			   "date": "2014"
+   			 },
+   			 {
+   			   "value": 2.3,
+   			   "units": "percent_of_gdp",
+   			   "date": "2013"
+   			 },
+   			 {
+   			   "value": 2.36,
+   			   "units": "percent_of_gdp",
+   			   "date": "2012"
+   			 }
+   		   ]
+   		 }
+   	   },
+   	   "transnational_issues": {
+   		 "disputes": [
+   		   "stretching over 250,000 km, the world's 325 international land boundaries separate 195 independent states and 71 dependencies, areas of special sovereignty, and other miscellaneous entities",
+   		   "ethnicity, culture, race, religion, and language have divided states into separate political entities as much as history, physical terrain, political fiat, or conquest, resulting in sometimes arbitrary and imposed boundaries",
+   		   "most maritime states have claimed limits that include territorial seas and exclusive economic zones",
+   		   "overlapping limits due to adjacent or opposite coasts create the potential for 430 bilateral maritime boundaries of which 209 have agreements that include contiguous and non-contiguous segments",
+   		   "boundary, borderland/resource, and territorial disputes vary in intensity from managed or dormant to violent or militarized",
+   		   "undemarcated, indefinite, porous, and unmanaged boundaries tend to encourage illegal cross-border activities, uncontrolled migration, and confrontation",
+   		   "territorial disputes may evolve from historical and/or cultural claims, or they may be brought on by resource competition",
+   		   "ethnic and cultural clashes continue to be responsible for much of the territorial fragmentation and internal displacement of the estimated 20.8 million people and cross-border displacements of approximately 12.1 million refugees and asylum seekers around the world as of mid-2013",
+   		   "over half a million refugees were repatriated during 2012",
+   		   "other sources of contention include access to water and mineral (especially hydrocarbon) resources, fisheries, and arable land",
+   		   "armed conflict prevails not so much between the uniformed armed forces of independent states as between stateless armed entities that detract from the sustenance and welfare of local populations, leaving the community of nations to cope with resultant refugees, hunger, disease, impoverishment, and environmental degradation"
+   		 ],
+   		 "trafficking_in_persons": {
+   		   "current_situation": "the International Labour Organization conservatively estimated that 20.9 million people in 2012 were victims of forced labor, representing the full range of human trafficking (also referred to as 'modern-day slavery') for labor and sexual exploitation; about one-third of reported cases involved crossing international borders, which is often associated with sexual exploitation; trafficking in persons is most prevalent in southeastern Europe, Eurasia, and Africa and least frequent in EU member states, Canada, the US, and other developed countries (2012)",
+   		   "tier_rating": "(2015)",
+   		   "tier_2_watch_list": "Tier: countries that neither satisfy the minimum standards for the elimination of trafficking nor demonstrate a significant effort to do so; (23 countries) Algeria, Belarus, Belize, Burundi, Central African Republic, Comoros, Equatorial Guinea, Eritrea, The Gambia, Guinea-Bissau, Iran, North Korea, Kuwait, Libya, Marshall Islands, Mauritania, Russia, South Sudan, Syria, Thailand, Venezuela, Yemen, Zimbabwe"
+   		 },
+   		 "illicit_drugs": {
+   		   "cocaine": "worldwide coca leaf cultivation in 2013 likely amounted to 165,000 hectares, assuming a stable crop in Bolivia; Colombia produced slightly less than half of the worldwide crop, followed by Peru and Bolivia; potential pure cocaine production increased 7% to 640 metric tons in 2013; Colombia conducts an aggressive coca eradication campaign, Peru has increased its eradication efforts, but remains hesitant to eradicate coca in key growing areas;",
+   		   "opiates": "worldwide illicit opium poppy cultivation increased in 2013, with potential opium production reaching 6,800 metric tons; Afghanistan is world's primary opium producer, accounting for 82% of the global supply; Southeast Asia was responsible for 12% of global opium; Pakistan produced 3% of global opium; Latin America produced 4% of global opium, and most was refined into heroin destined for the US market (2015)"
+   		 }
+   	   }
+   	 },
+   	 "metadata": {
+   	   "date": "2019-08-31",
+   	   "source": "https://web.archive.org/web/20190831162349/https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html",
+   	   "nearby_dates": "https://web.archive.org/web/20190831000000*/https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html"
+   	 }
+      },
+	"italy": {
+	"data": {
+		"name": "Italy",
+		"introduction": {
+		  "background": "Italy became a nation-state in 1861 when the regional states of the peninsula, along with Sardinia and Sicily, were united under King Victor EMMANUEL II. An era of parliamentary government came to a close in the early 1920s when Benito MUSSOLINI established a Fascist dictatorship. His alliance with Nazi Germany led to Italy's defeat in World War II. A democratic republic replaced the monarchy in 1946 and economic revival followed. Italy is a charter member of NATO and the European Economic Community (EEC) and its subsequent successors the EC and the EU. It has been at the forefront of European economic and political unification, joining the Economic and Monetary Union in 1999. Persistent problems include sluggish economic growth, high youth and female unemployment, organized crime, corruption, and economic disparities between southern Italy and the more prosperous north."},
+		"geography": {
+		  "location": "Southern Europe, a peninsula extending into the central Mediterranean Sea, northeast of Tunisia",
+		  "geographic_coordinates": {
+			"latitude": {
+			  "degrees": 42,
+			  "minutes": 50,
+			  "hemisphere": "N"
+			},
+			"longitude": {
+			  "degrees": 12,
+			  "minutes": 50,
+			  "hemisphere": "E"
+			}
+		  },
+		  "map_references": "Europe",
+		  "area": {
+			"total": {
+			  "value": 301340,
+			  "units": "sq km"
+			},
+			"land": {
+			  "value": 294140,
+			  "units": "sq km"
+			},
+			"water": {
+			  "value": 7200,
+			  "units": "sq km"
+			},
+			"note": "includes Sardinia and Sicily",
+			"global_rank": 73,
+			"comparative": "almost twice the size of Georgia; slightly larger than Arizona"
+		  },
+		  "land_boundaries": {
+			"total": {
+			  "value": 1836.4,
+			  "units": "km"
+			},
+			"border_countries": [
+			  {
+				"country": "Austria",
+				"border_length": {
+				  "value": 404,
+				  "units": "km"
+				}
+			  },
+			  {
+				"country": "France",
+				"border_length": {
+				  "value": 476,
+				  "units": "km"
+				}
+			  },
+			  {
+				"country": "Holy See (Vatican City)",
+				"border_length": {
+				  "value": 3.4,
+				  "units": "km"
+				}
+			  },
+			  {
+				"country": "San Marino",
+				"border_length": {
+				  "value": 37,
+				  "units": "km"
+				}
+			  },
+			  {
+				"country": "Slovenia",
+				"border_length": {
+				  "value": 218,
+				  "units": "km"
+				}
+			  },
+			  {
+				"country": "Switzerland",
+				"border_length": {
+				  "value": 698,
+				  "units": "km"
+				}
+			  }
+			]
+		  },
+		  "coastline": {
+			"value": 7600,
+			"units": "km"
+		  },
+		  "maritime_claims": {
+			"territorial_sea": {
+			  "value": 12,
+			  "units": "nm"
+			},
+			"continental_shelf": {
+			  "value": 200,
+			  "units": "m",
+			  "note": "depth or to the depth of exploitation"
+			}
+		  },
+		  "climate": "predominantly Mediterranean; alpine in far north; hot, dry in south",
+		  "terrain": "mostly rugged and mountainous; some plains, coastal lowlands",
+		  "elevation": {
+			"mean_elevation": {
+			  "value": 538,
+			  "units": "m"
+			},
+			"lowest_point": {
+			  "name": "Mediterranean Sea",
+			  "elevation": {
+				"value": 0,
+				"units": "m"
+			  }
+			},
+			"highest_point": {
+			  "name": "Mont Blanc (Monte Bianco) de Courmayeur (a secondary peak of Mont Blanc)",
+			  "elevation": {
+				"value": 4748,
+				"units": "m"
+			  }
+			}
+		  },
+		  "natural_resources": {
+			"resources": [
+			  "coal",
+			  "antimony",
+			  "mercury",
+			  "zinc",
+			  "potash",
+			  "marble",
+			  "barite",
+			  "asbestos",
+			  "pumice",
+			  "fluorspar",
+			  "feldspar",
+			  "pyrite",
+			  "sulfur",
+			  "natural gas",
+			  "crude oil reserves",
+			  "fish",
+			  "arable land"
+			]
+		  },
+		  "land_use": {
+			"by_sector": {
+			  "agricultural_land_total": {
+				"value": 47.1,
+				"units": "%"
+			  },
+			  "arable_land": {
+				"value": 22.8,
+				"units": "%",
+				"note": "/"
+			  },
+			  "permanent_crops": {
+				"value": 8.6,
+				"units": "%",
+				"note": "/"
+			  },
+			  "permanent_pasture": {
+				"value": 15.7,
+				"units": "%"
+			  },
+			  "forest": {
+				"value": 31.4,
+				"units": "%"
+			  },
+			  "other": {
+				"value": 21.5,
+				"units": "%"
+			  }
+			},
+			"date": "2011"
+		  },
+		  "irrigated_land": {
+			"value": 39500,
+			"units": "sq km",
+			"date": "2012"
+		  },
+		  "population_distribution": "despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations",
+		  "natural_hazards": [
+			{
+			  "description": "regional risks include landslides, mudflows, avalanches, earthquakes, volcanic eruptions, flooding",
+			  "type": "hazard"
+			},
+			{
+			  "description": "land subsidence in Venice",
+			  "type": "hazard"
+			},
+			{
+			  "description": "significant volcanic activity; Etna (3,330 m), which is in eruption as of 2010, is Europe's most active volcano; flank eruptions pose a threat to nearby Sicilian villages; Etna, along with the famous Vesuvius, which remains a threat to the millions of nearby residents in the Bay of Naples area, have both been deemed Decade Volcanoes by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to their explosive history and close proximity to human populations; Stromboli, on its namesake island, has also been continuously active with moderate volcanic activity; other historically active volcanoes include Campi Flegrei, Ischia, Larderello, Pantelleria, Vulcano, and Vulsini",
+			  "type": "volcanism"
+			}
+		  ],
+		  "environment": {
+			"current_issues": [
+			  "air pollution from industrial emissions such as sulfur dioxide",
+			  "coastal and inland rivers polluted from industrial and agricultural effluents",
+			  "acid rain damaging lakes",
+			  "inadequate industrial waste treatment and disposal facilities"
+			],
+			"international_agreements": {
+			  "party_to": [
+				"Air Pollution",
+				"Air Pollution-Nitrogen Oxides",
+				"Air Pollution-Persistent Organic Pollutants",
+				"Air Pollution-Sulfur 85",
+				"Air Pollution-Sulfur 94",
+				"Air Pollution-Volatile Organic Compounds",
+				"Antarctic-Environmental Protocol",
+				"Antarctic-Marine Living Resources",
+				"Antarctic Seals",
+				"Antarctic Treaty",
+				"Biodiversity",
+				"Climate Change",
+				"Climate Change-Kyoto Protocol",
+				"Desertification",
+				"Endangered Species",
+				"Environmental Modification",
+				"Hazardous Wastes",
+				"Law of the Sea",
+				"Marine Dumping",
+				"Ozone Layer Protection",
+				"Ship Pollution",
+				"Tropical Timber 83",
+				"Tropical Timber 94",
+				"Wetlands",
+				"Whaling"
+			  ],
+			  "signed_but_not_ratified": null
+			}
+		  }},
+		"people": {
+		  "population": {
+			"total": 62246674,
+			"global_rank": 23,
+			"date": "2018-07-01"
+		  },
+		  "nationality": {
+			"noun": "Italian(s)",
+			"adjective": "Italian"
+		  },
+		  "ethnic_groups": {
+			"ethnicity": [
+			  {
+				"name": "Italian",
+				"note": "includes small clusters of German-, French-, and Slovene-Italians in the north and Albanian-Italians and Greek-Italians in the south"
+			  }
+			]
+		  },
+		  "languages": {
+			"language": [
+			  {
+				"name": "Italian",
+				"note": "official"
+			  },
+			  {
+				"name": "German",
+				"note": "parts of Trentino-Alto Adige region are predominantly German speaking"
+			  },
+			  {
+				"name": "French",
+				"note": "small French-speaking minority in Valle d'Aosta region"
+			  },
+			  {
+				"name": "Slovene",
+				"note": "Slovene-speaking minority in the Trieste-Gorizia area"
+			  }
+			]
+		  },
+		  "religions": {
+			"religion": [
+			  {
+				"name": "Christian",
+				"percent": 83.3,
+				"note": "overwhelmingly Roman Catholic with very small groups of Jehovah's Witnesses and Protestants"
+			  },
+			  {
+				"name": "Muslim",
+				"percent": 3.7
+			  },
+			  {
+				"name": "unaffiliated",
+				"percent": 12.4
+			  },
+			  {
+				"name": "other",
+				"percent": 0.6
+			  }
+			],
+			"date": "2010"
+		  },
+		  "age_structure": {
+			"0_to_14": {
+			  "percent": 13.6,
+			  "males": 4326862,
+			  "females": 4136562
+			},
+			"15_to_24": {
+			  "percent": 9.61,
+			  "males": 2994651,
+			  "females": 2984172
+			},
+			"25_to_54": {
+			  "percent": 41.82,
+			  "males": 12845442,
+			  "females": 13183240
+			},
+			"55_to_64": {
+			  "percent": 13.29,
+			  "males": 4012640,
+			  "females": 4261956
+			},
+			"65_and_over": {
+			  "percent": 21.69,
+			  "males": 5817819,
+			  "females": 7683330
+			},
+			"date": "2018"
+		  },
+		  "dependency_ratios": {
+			"ratios": {
+			  "total_dependency_ratio": {
+				"value": 56.5,
+				"units": "%"
+			  },
+			  "youth_dependency_ratio": {
+				"value": 21.5,
+				"units": "%"
+			  },
+			  "elderly_dependency_ratio": {
+				"value": 35,
+				"units": "%"
+			  },
+			  "potential_support_ratio": {
+				"value": 2.9,
+				"units": "%"
+			  }
+			},
+			"date": "2015"
+		  },
+		  "median_age": {
+			"total": {
+			  "value": 45.8,
+			  "units": "years"
+			},
+			"male": {
+			  "value": 44.7,
+			  "units": "years"
+			},
+			"female": {
+			  "value": 46.9,
+			  "units": "years"
+			},
+			"global_rank": 5,
+			"date": "2018"
+		  },
+		  "population_growth_rate": {
+			"growth_rate": 0.16,
+			"global_rank": 183,
+			"date": "2018"
+		  },
+		  "birth_rate": {
+			"births_per_1000_population": 8.5,
+			"global_rank": 216,
+			"date": "2018"
+		  },
+		  "death_rate": {
+			"deaths_per_1000_population": 10.5,
+			"global_rank": 28,
+			"date": "2018"
+		  },
+		  "net_migration_rate": {
+			"migrants_per_1000_population": 3.6,
+			"global_rank": 37,
+			"date": "2018"
+		  },
+		  "population_distribution": "despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations",
+		  "urbanization": {
+			"urban_population": {
+			  "value": 70.4,
+			  "units": "%",
+			  "date": "2018"
+			},
+			"rate_of_urbanization": {
+			  "value": 0.29,
+			  "units": "%"
+			}
+		  },
+		  "major_urban_areas": {
+			"places": [
+			  {
+				"place": "Rome",
+				"population": 4210000,
+				"is_capital": true
+			  },
+			  {
+				"place": "Milan",
+				"population": 3132000
+			  },
+			  {
+				"place": "Naples",
+				"population": 2198000
+			  },
+			  {
+				"place": "Turin",
+				"population": 1786000
+			  },
+			  {
+				"place": "Bergamo",
+				"population": 874000
+			  },
+			  {
+				"place": "Palermo",
+				"population": 854000
+			  }
+			],
+			"date": "2018"
+		  },
+		  "sex_ratio": {
+			"by_age": {
+			  "at_birth": {
+				"value": 1.06,
+				"units": "males/female"
+			  },
+			  "0_to_14_years": {
+				"value": 1.05,
+				"units": "males/female"
+			  },
+			  "15_to_24_years": {
+				"value": 1,
+				"units": "males/female"
+			  },
+			  "25_to_54_years": {
+				"value": 0.97,
+				"units": "males/female"
+			  },
+			  "55_to_64_years": {
+				"value": 0.94,
+				"units": "males/female"
+			  },
+			  "65_years_and_over": {
+				"value": 0.76,
+				"units": "males/female"
+			  }
+			},
+			"total_population": {
+			  "value": 0.93,
+			  "units": "males/female"
+			},
+			"date": "2018"
+		  },
+		  "mothers_mean_age_at_first_birth": {
+			"age": 30.7,
+			"date": "2014"
+		  },
+		  "maternal_mortality_rate": {
+			"deaths_per_100k_live_births": 4,
+			"global_rank": 178,
+			"date": "2015"
+		  },
+		  "infant_mortality_rate": {
+			"total": {
+			  "value": 3.2,
+			  "units": "deaths_per_1000_live_births"
+			},
+			"male": {
+			  "value": 3.4,
+			  "units": "deaths_per_1000_live_births"
+			},
+			"female": {
+			  "value": 3,
+			  "units": "deaths_per_1000_live_births"
+			},
+			"global_rank": 210,
+			"date": "2018"
+		  },
+		  "life_expectancy_at_birth": {
+			"total_population": {
+			  "value": 82.4,
+			  "units": "years"
+			},
+			"male": {
+			  "value": 79.7,
+			  "units": "years"
+			},
+			"female": {
+			  "value": 85.2,
+			  "units": "years"
+			},
+			"global_rank": 15,
+			"date": "2018"
+		  },
+		  "total_fertility_rate": {
+			"children_born_per_woman": 1.45,
+			"global_rank": 206,
+			"date": "2018"
+		  },
+		  "contraceptive_prevalence_rate": {
+			"value": 65.1,
+			"units": "%",
+			"note": "percent of women aged 18-49",
+			"date": "2013"
+		  },
+		  "health_expenditures": {
+			"percent_of_gdp": 9.2,
+			"global_rank": 36,
+			"date": "2014"
+		  },
+		  "physicians_density": {
+			"physicians_per_1000_population": 4.09,
+			"date": "2017"
+		  },
+		  "hospital_bed_density": {
+			"beds_per_1000_population": 3.4,
+			"date": "2012"
+		  },
+		  "drinking_water_source": {
+			"improved": {
+			  "urban": {
+				"value": 100,
+				"units": "percent of population"
+			  },
+			  "rural": {
+				"value": 100,
+				"units": "percent of population"
+			  },
+			  "total": {
+				"value": 100,
+				"units": "percent of population"
+			  }
+			},
+			"unimproved": {
+			  "urban": {
+				"value": 0,
+				"units": "percent of population"
+			  },
+			  "rural": {
+				"value": 0,
+				"units": "percent of population"
+			  },
+			  "total": {
+				"value": 0,
+				"units": "percent of population"
+			  }
+			},
+			"date": "2015"
+		  },
+		  "sanitation_facility_access": {
+			"improved": {
+			  "urban": {
+				"value": 99.5,
+				"units": "percent of population"
+			  },
+			  "rural": {
+				"value": 99.6,
+				"units": "percent of population"
+			  },
+			  "total": {
+				"value": 99.5,
+				"units": "percent of population"
+			  }
+			},
+			"unimproved": {
+			  "urban": {
+				"value": 0.5,
+				"units": "percent of population"
+			  },
+			  "rural": {
+				"value": 0.4,
+				"units": "percent of population"
+			  },
+			  "total": {
+				"value": 0.5,
+				"units": "percent of population"
+			  }
+			},
+			"date": "2015"
+		  },
+		  "hiv_aids": {
+			"adult_prevalence_rate": {
+			  "percent_of_adults": 0.2,
+			  "global_rank": 96,
+			  "date": "2017"
+			},
+			"people_living_with_hiv_aids": {
+			  "total": 130000,
+			  "global_rank": 36,
+			  "date": "2017"
+			},
+			"deaths": {
+			  "total": 1000,
+			  "date": "2017"
+			}
+		  },
+		  "adult_obesity": {
+			"percent_of_adults": 19.9,
+			"global_rank": 108,
+			"date": "2016"
+		  },
+		  "education_expenditures": {
+			"percent_of_gdp": 4.1,
+			"global_rank": 104,
+			"date": "2015"
+		  },
+		  "literacy": {
+			"definition": "age 15 and over can read and write",
+			"total_population": {
+			  "value": 99.2,
+			  "units": "%"
+			},
+			"male": {
+			  "value": 99.4,
+			  "units": "%"
+			},
+			"female": {
+			  "value": 99,
+			  "units": "%"
+			},
+			"date": "2015"
+		  },
+		  "school_life_expectancy": {
+			"total": {
+			  "value": 16,
+			  "units": "years"
+			},
+			"male": {
+			  "value": 16,
+			  "units": "years"
+			},
+			"female": {
+			  "value": 17,
+			  "units": "years"
+			},
+			"date": "2016"
+		  },
+		  "youth_unemployment": {
+			"total": {
+			  "value": 34.7,
+			  "units": "%"
+			},
+			"male": {
+			  "value": 33,
+			  "units": "%"
+			},
+			"female": {
+			  "value": 37.3,
+			  "units": "%"
+			},
+			"global_rank": 22,
+			"date": "2017"
+		  }},
+		"government": {
+		  "country_name": {
+			"conventional_long_form": "Italian Republic",
+			"conventional_short_form": "Italy",
+			"local_long_form": "Repubblica Italiana",
+			"local_short_form": "Italia",
+			"former": "Kingdom of Italy",
+			"etymology": "derivation is unclear, but the Latin \"Italia\" may come from the Oscan \"Viteliu\" meaning \"[Land] of Young Cattle\" (the bull was a symbol of southern Italic tribes)"
+		  },
+		  "government_type": "parliamentary republic",
+		  "capital": {
+			"name": "Rome",
+			"geographic_coordinates": {
+			  "latitude": {
+				"degrees": 41,
+				"minutes": 54,
+				"hemisphere": "N"
+			  },
+			  "longitude": {
+				"degrees": 12,
+				"minutes": 29,
+				"hemisphere": "E"
+			  }
+			},
+			"time_difference": {
+			  "timezone": 1,
+			  "note": "6 hours ahead of Washington, DC, during Standard Time"
+			},
+			"daylight_saving_time": "+1hr, begins last Sunday in March; ends last Sunday in October",
+			"etymology": "by tradition, named after Romulus, one of the legendary founders of the city and its first king"
+		  },
+		  "administrative_divisions": [
+			{
+			  "name": "regione) and 5 autonomous regions (regioni autonome",
+			  "type": ""
+			},
+			{
+			  "name": "singular - regione autonoma)",
+			  "type": ""
+			}
+		  ],
+		  "independence": {
+			"date": "1861-03-17"
+		  },
+		  "national_holidays": [
+			{
+			  "name": "Republic Day",
+			  "day": "2 June",
+			  "original_year": "1946"
+			}
+		  ],
+		  "constitution": {
+			"history": "previous 1848 (originally for the Kingdom of Sardinia and adopted by the Kingdom of Italy in 1861); latest enacted 22 December 1947, adopted 27 December 1947, entered into force 1 January 1948",
+			"amendments": "proposed by both houses of Parliament; passage requires two successive debates and approval by absolute majority of each house on the second vote; a referendum is only required when requested by one-fifth of the members of either house, by voter petition, or by five Regional Councils (elected legislative assemblies of the 15 first-level administrative regions and 5 autonomous regions of Italy); referendum not required if an amendment has been approved by a two-thirds majority in each house in the second vote; amended many times, last in 2012",
+			"note": "a referendum held on 4 December 2016 on constitutional amendments was defeated (2017)"
+		  },
+		  "legal_system": "civil law system; judicial review of legislation under certain conditions in Constitutional Court",
+		  "international_law_organization_participation": [
+			"accepts compulsory ICJ jurisdiction with reservations",
+			"accepts ICCt jurisdiction"
+		  ],
+		  "citizenship": {
+			"citizenship_by_birth": "no",
+			"citizenship_by_descent_only": "at least one parent must be a citizen of Italy",
+			"dual_citizenship_recognized": "yes",
+			"residency_requirement_for_naturalization": "4 years for EU nationals, 5 years for refugees and specified exceptions, 10 years for all others"
+		  },
+		  "suffrage": {
+			"age": 18,
+			"universal": true,
+			"compulsory": false,
+			"note": "18 years of age; universal except in senatorial elections, where minimum age is 25"
+		  },
+		  "executive_branch": {
+			"chief_of_state": "President Sergio MATTARELLA (since 3 February 2015)",
+			"head_of_government": "Prime Minister Giuseppe CONTE (since 1 June 2018); the prime minister's official title is President of the Council of Ministers",
+			"cabinet": "Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president",
+			"elections_appointments": "president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 31 January 2015 (next to be held in 2022); prime minister appointed by the president, confirmed by parliament",
+			"election_results": "Sergio MATTARELLA (PD) elected president; electoral college vote count in fourth round - 665 out of 1,009 (505-vote threshold)"
+		  },
+		  "legislative_branch": {
+			"description": "bicameral Parliament or Parlamento consists of: Senate or Senato della Repubblica (321 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 6 ex-officio members appointed by the president of the Republic to serve for life)\nChamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)",
+			"elections": "Senate - last held on 4 March 2018 (next to be held on March 2023)\nChamber of Deputies - last held on 4 March 2018 (next to be held on March 2023); President MATTARELLA dissolved parliament on 28 December 2017, triggering an early election",
+			"election_results": "Senate - percent of vote by party - center-right coalition 37.5% (L 17.6%, FI 14.4%, FdI 4.3%, UdC 1.2%), M5S 32.2%, center-left coalition (PD 19.1%, +E 2.3%, I 0.5%, CP 0.5%, SVP-PATT 0.4%), LeU 3.3%; seats by party - center-right coalition 77(L 37, FI 33, FdI 7), M5S 68, center-left coalition 44(PD 43, SVP-PATT 1), LeU 4; composition - men 208, women 113, percent of women 35.2%\nChamber of Deputies - percent of vote by party - center-right coalition 37% (L 17.4%, FI 14%, FdI 4.4%, UdC 1.3%), M5S 33%, center-left coalition 22.9% (PD 18.8%, E+ 2.6%, I 0.6%, CP 0.5%, SVP-PATT 0.4%); seats by party - center-right coalition 151 (L73, FI 59, FdI 19), M5S 133, center-left coalition 88 (PD 86, SVP 2), LeU 14; composition - men 405, women 225, percent of women 35.7%; note - total Parliament percent of women 35.5%"
+		  },
+		  "judicial_branch": {
+			"highest_courts": "Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)",
+			"judge_selection_and_term_of_office": "Supreme Court judges appointed by the High Council of the Judiciary, headed by the president of the republic; judges may serve for life; Constitutional Court judges - 5 appointed by the president, 5 elected by Parliament, 5 elected by select higher courts; judges serve up to 9 years",
+			"subordinate_courts": "various lower civil and criminal courts (primary and secondary tribunals, and courts of appeal)"
+		  },
+		  "political_parties_and_leaders": {
+			"parties": [
+			  {
+				"name": "Civic Choice",
+				"name_alternative": "SC",
+				"leaders": [
+				  "Enrico ZANETTI"
+				]
+			  },
+			  {
+				"name": "Democratic Centre",
+				"name_alternative": "CD",
+				"leaders": [
+				  "Bruno TABACCI"
+				]
+			  },
+			  {
+				"name": "Democratic Party",
+				"name_alternative": "PD",
+				"leaders": [
+				  "Maurizio MARTINA"
+				]
+			  },
+			  {
+				"name": "Popular Alliance",
+				"name_alternative": "AP",
+				"leaders": [
+				  "Angelino ALFANO"
+				],
+				"note": "formerly New Center-Right or NCD"
+			  },
+			  {
+				"name": "Union of the Center",
+				"name_alternative": "UdC",
+				"leaders": [
+				  "Pier Fernando CASSINI"
+				]
+			  },
+			  {
+				"name": "Brothers of Italy-National Alliance",
+				"name_alternative": "FdI-AN",
+				"leaders": [
+				  "Giorgia MELONI",
+				  "Ignazio LA RUSSA",
+				  "Guido CROSETTO"
+				]
+			  },
+			  {
+				"name": "Forza Italia",
+				"name_alternative": "FI",
+				"leaders": [
+				  "Silvio BERLUSCONI"
+				],
+				"note": "formerly People of Freedom or PdL"
+			  },
+			  {
+				"name": "Northern League",
+				"name_alternative": "Lega",
+				"leaders": [
+				  "Matteo SALVINI"
+				],
+				"note": "Lega Nord"
+			  },
+			  {
+				"name": "Democratic and Progressive Movement",
+				"name_alternative": "MDP",
+				"leaders": [
+				  "Roberto SPERANZA"
+				]
+			  },
+			  {
+				"name": "Five Star Movement",
+				"name_alternative": "M5S",
+				"leaders": [
+				  "Luigi DI MAIO"
+				]
+			  },
+			  {
+				"name": "Liberal Popular Alliance",
+				"name_alternative": "ALA",
+				"leaders": [
+				  "Denis VERDINI"
+				]
+			  },
+			  {
+				"name": "Sinistra Italiani",
+				"name_alternative": "SI",
+				"leaders": [
+				  "Nicola FRATOIANNI"
+				],
+				"note": "formerly Sinistra Ecologia Liberta or SEL"
+			  },
+			  {
+				"name": "South Tyrolean People's Party",
+				"name_alternative": "SVP",
+				"leaders": [
+				  "Philipp ACHAMMER"
+				]
+			  },
+			  {
+				"name": "Trentino Tyrolean Autonomist Party",
+				"name_alternative": "PATT",
+				"leaders": [
+				  "Franco PANIZZA",
+				  "secretary"
+				],
+				"note": "Partito Autonomista Trentino Tirolese"
+			  }
+			]
+		  },
+		  "international_organization_participation": [
+			{
+			  "organization": "ADB ",
+			  "note": "nonregional member"
+			},
+			{
+			  "organization": "AfDB ",
+			  "note": "nonregional member"
+			},
+			{
+			  "organization": "Arctic Council ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "Australia Group"
+			},
+			{
+			  "organization": "BIS"
+			},
+			{
+			  "organization": "BSEC ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "CBSS ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "CD"
+			},
+			{
+			  "organization": "CDB"
+			},
+			{
+			  "organization": "CE"
+			},
+			{
+			  "organization": "CEI"
+			},
+			{
+			  "organization": "CERN"
+			},
+			{
+			  "organization": "EAPC"
+			},
+			{
+			  "organization": "EBRD"
+			},
+			{
+			  "organization": "ECB"
+			},
+			{
+			  "organization": "EIB"
+			},
+			{
+			  "organization": "EITI ",
+			  "note": "implementing country"
+			},
+			{
+			  "organization": "EMU"
+			},
+			{
+			  "organization": "ESA"
+			},
+			{
+			  "organization": "EU"
+			},
+			{
+			  "organization": "FAO"
+			},
+			{
+			  "organization": "FATF"
+			},
+			{
+			  "organization": "G-7"
+			},
+			{
+			  "organization": "G-8"
+			},
+			{
+			  "organization": "G-10"
+			},
+			{
+			  "organization": "G-20"
+			},
+			{
+			  "organization": "IADB"
+			},
+			{
+			  "organization": "IAEA"
+			},
+			{
+			  "organization": "IBRD"
+			},
+			{
+			  "organization": "ICAO"
+			},
+			{
+			  "organization": "ICC ",
+			  "note": "national committees"
+			},
+			{
+			  "organization": "ICCt"
+			},
+			{
+			  "organization": "ICRM"
+			},
+			{
+			  "organization": "IDA"
+			},
+			{
+			  "organization": "IEA"
+			},
+			{
+			  "organization": "IFAD"
+			},
+			{
+			  "organization": "IFC"
+			},
+			{
+			  "organization": "IFRCS"
+			},
+			{
+			  "organization": "IGAD ",
+			  "note": "partners"
+			},
+			{
+			  "organization": "IHO"
+			},
+			{
+			  "organization": "ILO"
+			},
+			{
+			  "organization": "IMF"
+			},
+			{
+			  "organization": "IMO"
+			},
+			{
+			  "organization": "IMSO"
+			},
+			{
+			  "organization": "Interpol"
+			},
+			{
+			  "organization": "IOC"
+			},
+			{
+			  "organization": "IOM"
+			},
+			{
+			  "organization": "IPU"
+			},
+			{
+			  "organization": "ISO"
+			},
+			{
+			  "organization": "ITSO"
+			},
+			{
+			  "organization": "ITU"
+			},
+			{
+			  "organization": "ITUC ",
+			  "note": "NGOs"
+			},
+			{
+			  "organization": "LAIA ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "MIGA"
+			},
+			{
+			  "organization": "MINURSO"
+			},
+			{
+			  "organization": "MINUSMA"
+			},
+			{
+			  "organization": "NATO"
+			},
+			{
+			  "organization": "NEA"
+			},
+			{
+			  "organization": "NSG"
+			},
+			{
+			  "organization": "OAS ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "OECD"
+			},
+			{
+			  "organization": "OPCW"
+			},
+			{
+			  "organization": "OSCE"
+			},
+			{
+			  "organization": "Pacific Alliance ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "Paris Club"
+			},
+			{
+			  "organization": "PCA"
+			},
+			{
+			  "organization": "PIF ",
+			  "note": "partner"
+			},
+			{
+			  "organization": "Schengen Convention"
+			},
+			{
+			  "organization": "SELEC ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "SICA ",
+			  "note": "observer"
+			},
+			{
+			  "organization": "UN"
+			},
+			{
+			  "organization": "UNCTAD"
+			},
+			{
+			  "organization": "UNESCO"
+			},
+			{
+			  "organization": "UNHCR"
+			},
+			{
+			  "organization": "UNIDO"
+			},
+			{
+			  "organization": "UNIFIL"
+			},
+			{
+			  "organization": "Union Latina"
+			},
+			{
+			  "organization": "UNMOGIP"
+			},
+			{
+			  "organization": "UNRWA"
+			},
+			{
+			  "organization": "UNTSO"
+			},
+			{
+			  "organization": "UNWTO"
+			},
+			{
+			  "organization": "UPU"
+			},
+			{
+			  "organization": "WCO"
+			},
+			{
+			  "organization": "WHO"
+			},
+			{
+			  "organization": "WIPO"
+			},
+			{
+			  "organization": "WMO"
+			},
+			{
+			  "organization": "WTO"
+			},
+			{
+			  "organization": "ZC"
+			}
+		  ],
+		  "diplomatic_representation": {
+			"in_united_states": {
+			  "chief_of_mission": "Ambassador Armando VARRICCHIO (since 2 March 2016)",
+			  "chancery": "3000 Whitehaven Street NW, Washington, DC 20008",
+			  "telephone": "[1] (202) 612-4400",
+			  "fax": "[1] (202) 518-2151",
+			  "consulates_general": "Boston, Chicago, Detroit, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco",
+			  "consulates": "Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle"
+			},
+			"from_united_states": {
+			  "chief_of_mission": "Ambassador Lewis EISENBERG (since 4 October 2017); note - also accredited to San Marino",
+			  "embassy": "Via Vittorio Veneto 121, 00187-Rome",
+			  "mailing_address": "PSC 59, Box 100, APO AE 09624",
+			  "telephone": "[39] 06-4674-1",
+			  "fax": "[39] 06-488-2672",
+			  "consulates_general": "Florence, Milan, Naples"
+			}
+		  },
+		  "flag_description": {
+			"description": "three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard",
+			"note": "similar to the flag of Mexico, which is longer, uses darker shades of green and red, and has its coat of arms centered on the white band; Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green"
+		  },
+		  "national_symbol": {
+			"symbols": [
+			  {
+				"symbol": "white"
+			  },
+			  {
+				"symbol": "five-pointed star ",
+				"note": "Stella d'Italia"
+			  }
+			],
+			"colors": [
+			  {
+				"color": "red"
+			  },
+			  {
+				"color": "white"
+			  },
+			  {
+				"color": "green"
+			  }
+			]
+		  },
+		  "national_anthem": {
+			"name": "\"Il Canto degli Italiani\" (The Song of the Italians)",
+			"lyrics_music": "Goffredo MAMELI/Michele NOVARO",
+			"note": "adopted 1946; the anthem, originally written in 1847, is also known as \"L'Inno di Mameli\" (Mameli's Hymn), and \"Fratelli D'Italia\" (Brothers of Italy)",
+			"audio_url": "https://www.cia.gov/library/publications/the-world-factbook/attachments/audios/original/IT.mp3?1538604755"
+		  }},
+		"economy": {
+		  "overview": "Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.\nItaly is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.",
+		  "gdp": {
+			"purchasing_power_parity": {
+			  "annual_values": [
+				{
+				  "value": 2317000000000,
+				  "units": "USD",
+				  "date": "2017"
+				},
+				{
+				  "value": 2282000000000,
+				  "units": "USD",
+				  "date": "2016"
+				},
+				{
+				  "value": 2263000000000,
+				  "units": "USD",
+				  "date": "2015"
+				}
+			  ],
+			  "global_rank": 12,
+			  "note": "data are in 2017 dollars"
+			},
+			"official_exchange_rate": {
+			  "USD": 1939000000000,
+			  "date": "2017"
+			},
+			"real_growth_rate": {
+			  "annual_values": [
+				{
+				  "value": 1.5,
+				  "units": "%",
+				  "date": "2017"
+				},
+				{
+				  "value": 0.9,
+				  "units": "%",
+				  "date": "2016"
+				},
+				{
+				  "value": 1,
+				  "units": "%",
+				  "date": "2015"
+				}
+			  ],
+			  "global_rank": 171
+			},
+			"per_capita_purchasing_power_parity": {
+			  "annual_values": [
+				{
+				  "value": 38200,
+				  "units": "USD",
+				  "date": "2017"
+				},
+				{
+				  "value": 37600,
+				  "units": "USD",
+				  "date": "2016"
+				},
+				{
+				  "value": 37200,
+				  "units": "USD",
+				  "date": "2015"
+				}
+			  ],
+			  "global_rank": 50,
+			  "note": "data are in 2017 dollars"
+			},
+			"composition": {
+			  "by_end_use": {
+				"end_uses": {
+				  "household_consumption": {
+					"value": 61,
+					"units": "%"
+				  },
+				  "government_consumption": {
+					"value": 18.6,
+					"units": "%"
+				  },
+				  "investment_in_fixed_capital": {
+					"value": 17.5,
+					"units": "%"
+				  },
+				  "investment_in_inventories": {
+					"value": -0.2,
+					"units": "%"
+				  },
+				  "exports_of_goods_and_services": {
+					"value": 31.4,
+					"units": "%"
+				  },
+				  "imports_of_goods_and_services": {
+					"value": -28.3,
+					"units": "%"
+				  }
+				},
+				"date": "2017"
+			  },
+			  "by_sector_of_origin": {
+				"sectors": {
+				  "agriculture": {
+					"value": 2.1,
+					"units": "%"
+				  },
+				  "industry": {
+					"value": 23.9,
+					"units": "%"
+				  },
+				  "services": {
+					"value": 73.9,
+					"units": "%"
+				  }
+				},
+				"date": "2017"
+			  }
+			}
+		  },
+		  "gross_national_saving": {
+			"annual_values": [
+			  {
+				"value": 20.3,
+				"units": "percent_of_gdp",
+				"date": "2017"
+			  },
+			  {
+				"value": 19.7,
+				"units": "percent_of_gdp",
+				"date": "2016"
+			  },
+			  {
+				"value": 18.8,
+				"units": "percent_of_gdp",
+				"date": "2015"
+			  }
+			],
+			"global_rank": 95
+		  },
+		  "agriculture_products": {
+			"products": [
+			  "fruits",
+			  "vegetables",
+			  "grapes",
+			  "potatoes",
+			  "sugar beets",
+			  "soybeans",
+			  "grain",
+			  "olives",
+			  "beef",
+			  "dairy products",
+			  "fish"
+			]
+		  },
+		  "industries": {
+			"industries": [
+			  "tourism",
+			  "machinery",
+			  "iron",
+			  "steel",
+			  "chemicals",
+			  "food processing",
+			  "textiles",
+			  "motor vehicles",
+			  "clothing",
+			  "footwear",
+			  "ceramics"
+			]
+		  },
+		  "industrial_production_growth_rate": {
+			"annual_percentage_increase": 2.1,
+			"global_rank": 128,
+			"date": "2017"
+		  },
+		  "labor_force": {
+			"total_size": {
+			  "total_people": 25940000,
+			  "global_rank": 24,
+			  "date": "2017"
+			},
+			"by_occupation": {
+			  "occupation": {
+				"agriculture": {
+				  "value": 3.9,
+				  "units": "%"
+				},
+				"industry": {
+				  "value": 28.3,
+				  "units": "%"
+				},
+				"services": {
+				  "value": 67.8,
+				  "units": "%"
+				}
+			  },
+			  "date": "2011"
+			}
+		  },
+		  "unemployment_rate": {
+			"annual_values": [
+			  {
+				"value": 11.3,
+				"units": "%",
+				"date": "2017"
+			  },
+			  {
+				"value": 11.7,
+				"units": "%",
+				"date": "2016"
+			  }
+			],
+			"global_rank": 153
+		  },
+		  "population_below_poverty_line": {
+			"value": 29.9,
+			"units": "%",
+			"date": "2012"
+		  },
+		  "household_income_by_percentage_share": {
+			"lowest_ten_percent": {
+			  "value": 2.3,
+			  "units": "%"
+			},
+			"highest_ten_percent": {
+			  "value": 26.8,
+			  "units": "%"
+			},
+			"date": "2000"
+		  },
+		  "distribution_of_family_income": {
+			"annual_values": [
+			  {
+				"value": 31.9,
+				"units": "gini_index",
+				"date": "2012"
+			  },
+			  {
+				"value": 27.3,
+				"units": "gini_index",
+				"date": "1995"
+			  }
+			],
+			"global_rank": 121
+		  },
+		  "budget": {
+			"revenues": {
+			  "value": 903300000000,
+			  "units": "USD"
+			},
+			"expenditures": {
+			  "value": 948100000000,
+			  "units": "USD"
+			},
+			"date": "2017"
+		  },
+		  "taxes_and_other_revenues": {
+			"percent_of_gdp": 46.6,
+			"global_rank": 20,
+			"date": "2017"
+		  },
+		  "budget_surplus_or_deficit": {
+			"percent_of_gdp": -2.3,
+			"global_rank": 111,
+			"date": "2017"
+		  },
+		  "public_debt": {
+			"annual_values": [
+			  {
+				"value": 131.8,
+				"units": "percent_of_gdp",
+				"date": "2017"
+			  },
+			  {
+				"value": 132,
+				"units": "percent_of_gdp",
+				"date": "2016"
+			  }
+			],
+			"global_rank": 5,
+			"note": "Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds"
+		  },
+		  "fiscal_year": {
+			"start": "1 January",
+			"end": "31 December"
+		  },
+		  "inflation_rate": {
+			"annual_values": [
+			  {
+				"value": 1.3,
+				"units": "%",
+				"date": "2017"
+			  },
+			  {
+				"value": -0.1,
+				"units": "%",
+				"date": "2016"
+			  }
+			],
+			"global_rank": 68
+		  },
+		  "central_bank_discount_rate": {
+			"annual_values": [
+			  {
+				"value": 0.25,
+				"units": "%",
+				"date": "2013-12-31"
+			  },
+			  {
+				"value": 0.75,
+				"units": "%",
+				"date": "2012-12-31"
+			  }
+			],
+			"global_rank": 139,
+			"note": "this is the European Central Bank's rate on the marginal lending facility, which offers overnight credit to banks in the euro area"
+		  },
+		  "commercial_bank_prime_lending_rate": {
+			"annual_values": [
+			  {
+				"value": 3,
+				"units": "%",
+				"date": "2017-12-31"
+			  },
+			  {
+				"value": 3.5,
+				"units": "%",
+				"date": "2016-12-31"
+			  }
+			],
+			"global_rank": 174
+		  },
+		  "stock_of_narrow_money": {
+			"annual_values": [
+			  {
+				"value": 1347000000000,
+				"units": "USD",
+				"date": "2017-12-31"
+			  },
+			  {
+				"value": 1101000000000,
+				"units": "USD",
+				"date": "2016-12-31"
+			  }
+			],
+			"global_rank": 6,
+			"note": "see entry for the European Union for money supply for the entire euro area; the European Central Bank (ECB) controls monetary policy for the 18 members of the Economic and Monetary Union (EMU); individual members of the EMU do not control the quantity of money circulating within their own borders"
+		  },
+		  "stock_of_broad_money": {
+			"annual_values": [
+			  {
+				"value": 1347000000000,
+				"units": "USD",
+				"date": "2017-12-31"
+			  },
+			  {
+				"value": 1101000000000,
+				"units": "USD",
+				"date": "2016-12-31"
+			  }
+			],
+			"global_rank": 6
+		  },
+		  "stock_of_domestic_credit": {
+			"annual_values": [
+			  {
+				"value": 3422000000000,
+				"units": "USD",
+				"date": "2017-12-31"
+			  },
+			  {
+				"value": 3024000000000,
+				"units": "USD",
+				"date": "2016-12-31"
+			  }
+			],
+			"global_rank": 6
+		  },
+		  "market_value_of_publicly_traded_shares": {
+			"annual_values": [
+			  {
+				"value": 587300000000,
+				"units": "USD",
+				"date": "2014-12-31"
+			  },
+			  {
+				"value": 615500000000,
+				"units": "USD",
+				"date": "2013-12-31"
+			  },
+			  {
+				"value": 480500000000,
+				"units": "USD",
+				"date": "2012-12-31"
+			  }
+			],
+			"global_rank": 20
+		  },
+		  "current_account_balance": {
+			"annual_values": [
+			  {
+				"value": 53420000000,
+				"units": "USD",
+				"date": "2017"
+			  },
+			  {
+				"value": 47640000000,
+				"units": "USD",
+				"date": "2016"
+			  }
+			],
+			"global_rank": 9
+		  },
+		  "exports": {
+			"total_value": {
+			  "annual_values": [
+				{
+				  "value": 496300000000,
+				  "units": "USD",
+				  "date": "2017"
+				},
+				{
+				  "value": 454100000000,
+				  "units": "USD",
+				  "date": "2016"
+				}
+			  ],
+			  "global_rank": 9
+			},
+			"commodities": {
+			  "by_commodity": [
+				"engineering products",
+				"textiles",
+				"clothing",
+				"production machinery",
+				"motor vehicles",
+				"transport equipment",
+				"chemicals",
+				"foodstuffs",
+				"beverages",
+				"tobacco",
+				"minerals",
+				"nonferrous metals"
+			  ]
+			},
+			"partners": {
+			  "by_country": [
+				{
+				  "name": "Germany",
+				  "percent": 12.5
+				},
+				{
+				  "name": "France",
+				  "percent": 10.3
+				},
+				{
+				  "name": "US",
+				  "percent": 9
+				},
+				{
+				  "name": "Spain",
+				  "percent": 5.2
+				},
+				{
+				  "name": "UK",
+				  "percent": 5.2
+				},
+				{
+				  "name": "Switzerland",
+				  "percent": 4.6
+				}
+			  ],
+			  "date": "2017"
+			}
+		  },
+		  "imports": {
+			"total_value": {
+			  "annual_values": [
+				{
+				  "value": 432900000000,
+				  "units": "USD",
+				  "date": "2017"
+				},
+				{
+				  "value": 389800000000,
+				  "units": "USD",
+				  "date": "2016"
+				}
+			  ],
+			  "global_rank": 13
+			},
+			"commodities": {
+			  "by_commodity": [
+				"engineering products",
+				"chemicals",
+				"transport equipment",
+				"energy products",
+				"minerals",
+				"nonferrous metals",
+				"textiles",
+				"clothing",
+				"food",
+				"beverages",
+				"tobacco"
+			  ]
+			},
+			"partners": {
+			  "by_country": [
+				{
+				  "name": "Germany",
+				  "percent": 16.3
+				},
+				{
+				  "name": "France",
+				  "percent": 8.8
+				},
+				{
+				  "name": "China",
+				  "percent": 7.1
+				},
+				{
+				  "name": "Netherlands",
+				  "percent": 5.6
+				},
+				{
+				  "name": "Spain",
+				  "percent": 5.3
+				},
+				{
+				  "name": "Belgium",
+				  "percent": 4.5
+				}
+			  ],
+			  "date": "2017"
+			}
+		  },
+		  "reserves_of_foreign_exchange_and_gold": {
+			"annual_values": [
+			  {
+				"value": 151200000000,
+				"units": "USD",
+				"date": "2017-12-31"
+			  },
+			  {
+				"value": 130600000000,
+				"units": "USD",
+				"date": "2015-12-31"
+			  }
+			],
+			"global_rank": 16
+		  },
+		  "external_debt": {
+			"annual_values": [
+			  {
+				"value": 2444000000000,
+				"units": "USD",
+				"date": "2016-03-31"
+			  },
+			  {
+				"value": 2300000000000,
+				"units": "USD",
+				"date": "2015-03-31"
+			  }
+			],
+			"global_rank": 9
+		  },
+		  "stock_of_direct_foreign_investment": {
+			"at_home": {
+			  "annual_values": [
+				{
+				  "value": 552100000000,
+				  "units": "USD",
+				  "date": "2017-12-31"
+				},
+				{
+				  "value": 471700000000,
+				  "units": "USD",
+				  "date": "2016-12-31"
+				}
+			  ],
+			  "global_rank": 17
+			},
+			"abroad": {
+			  "annual_values": [
+				{
+				  "value": 671800000000,
+				  "units": "USD",
+				  "date": "2017-12-31"
+				},
+				{
+				  "value": 584100000000,
+				  "units": "USD",
+				  "date": "2016-12-31"
+				}
+			  ],
+			  "global_rank": 15
+			}
+		  },
+		  "exchange_rates": {
+			"annual_values": [
+			  {
+				"value": 0.885,
+				"units": "USD",
+				"date": "2017"
+			  },
+			  {
+				"value": 0.903,
+				"units": "USD",
+				"date": "2016"
+			  },
+			  {
+				"value": 0.9214,
+				"units": "USD",
+				"date": "2015"
+			  },
+			  {
+				"value": 0.885,
+				"units": "USD",
+				"date": "2014"
+			  },
+			  {
+				"value": 0.7634,
+				"units": "USD",
+				"date": "2013"
+			  }
+			],
+			"note": "euros (EUR) per US dollar"
+		  }},
+	},
+	"metadata": {
+		"date": "2019-08-08",
+		"source": "https://web.archive.org/web/20190808124029/https://www.cia.gov/library/publications/the-world-factbook/geos/it.html",
+		"nearby_dates": "https://web.archive.org/web/20190808000000*/https://www.cia.gov/library/publications/the-world-factbook/geos/it.html"
+	}
+	}
+}
+}
