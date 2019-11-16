@@ -110,12 +110,34 @@ h5 {
 	float: right;
 }
 
-.vbargraphlist {
-	font-weight: 700;
+.bargraph {
+	display: flex;
+	width: 360px;
+	height: 300px;
+}
+
+.italy,
+.world {
+	background-color: green;
+	width: 30px;
+	margin-right: 100px;
+}
+
+.italy {
+	height: 40px;
+}
+
+.world {
+	height: 60px;
+	background-color: red;
 }
 
 .vbargraph {
 	display: flex;
+}
+
+.vbargraphlist {
+	font-weight: 700;
 }
 
 .numbers p,
