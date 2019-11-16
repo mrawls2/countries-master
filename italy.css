@@ -152,3 +152,43 @@ h5 {
 	margin-top: 10px;
 	display: block;
 }
+
+.hbargraphlist {
+	background-color: green;
+}
+
+#services {
+	width: 67.8%;
+}
+
+#industry {
+	width: 28.3%;
+}
+
+#agriculture {
+	width: 3.9%;
+}
+
+#palermo {
+	width: 20.28%;
+}
+
+#bergamo {
+	width: 20.76%;
+}
+
+#turin {
+	width: 42.42%;
+}
+
+#naples {
+	width: 52.21%;
+}
+
+#milan {
+	width: 74.39%;
+}
+
+#rome {
+	width: 100%;
+}
