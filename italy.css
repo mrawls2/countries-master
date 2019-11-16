@@ -22,11 +22,15 @@ body {
 .flag {
 	width: 672px;
 	height: 456px;
-	top: 1600px;
+	top: 1700px;
 	left: -10px;
 	opacity: 80%;
 	z-index: -1;
 	position: absolute;
+}
+
+.subject {
+	margin-bottom: 70px;
 }
 
 h3,
