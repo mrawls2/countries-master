@@ -119,6 +119,7 @@ li {
 
 .numbers {
 	display: flex;
+	margin-bottom: 0px;
 }
 
 .numberslist {
@@ -133,17 +134,16 @@ li {
 	height: 300px;
 }
 
-.italy,
-.world {
+.graph {
 	background-color: green;
 	width: 30px;
 }
 
-.italy {
+#italy {
 	height: 40px;
 }
 
-.world {
+#world {
 	height: 60px;
 	background-color: red;
 }
@@ -153,14 +153,10 @@ li {
 }
 
 .vbargraphlist {
-	font-weight: 700;
-}
-
-.vbargraphlist p {
 	font-weight: 300;
 	font-size: 15px;
 	margin-top: -2px;
-	margin-right: 40px;
+	margin-right: 10px;
 }
 
 .hbargraphlist {
