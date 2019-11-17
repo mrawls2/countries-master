@@ -11,10 +11,6 @@ body {
 	color: white;
 }
 
-strong {
-
-}
-
 .map {
 	width: 700px;
 	height: 700px;
@@ -78,11 +74,6 @@ span {
 	color: white;
 }
 
-span {
-	display: block;
-	margin-right: 130px;
-}
-
 h3 {
 	font-size: 30px;
 	height: 45px;
@@ -135,26 +126,29 @@ li {
 .graph {
 	background-color: green;
 	width: 30px;
-	margin-right: 10px;
+	margin-right: 100px;
+	display: inline-block;
+}
 
+span {
+	margin-right: 160px;
+	display: block;
 }
 
 #italy {
-	height: 40px;
+	height: 10px;
 }
 
 #world {
-	height: 60px;
-	background-color: red;
+	height: 100px;
 }
 
 #revenue {
-	height: 40px;
+	height: 90px;
 }
 
 #expenditures {
-	height: 60px;
-	background-color: red;
+	height: 100px;
 }
 
 .vbargraph {
@@ -168,12 +162,13 @@ li {
 	margin-right: 10px;
 }
 
-.hbargraphlist {
-	margin-top: 10px;
-	display: block;
+.hbargraph {
+	margin-top: 25px;
 }
 
 .hbargraphlist {
+	margin-top: 10px;
+	display: block;
 	background-color: green;
 }
 
