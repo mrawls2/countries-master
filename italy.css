@@ -73,11 +73,17 @@ h1 {
 }
 
 h2,
-p {
+p,
+span {
 	font-weight: 300;
 	font-size: 15px;
 	margin-bottom: 20px;
-	color: white
+	color: white;
+}
+
+span {
+	display: block;
+	margin-right: 130px;
 }
 
 h3 {
