@@ -129,14 +129,14 @@ li {
 }
 
 .bargraph {
-	float: right;
-	width: 360px;
-	height: 300px;
+	display: flex;
 }
 
 .graph {
 	background-color: green;
 	width: 30px;
+	margin-right: 10px;
+
 }
 
 #italy {
@@ -144,6 +144,15 @@ li {
 }
 
 #world {
+	height: 60px;
+	background-color: red;
+}
+
+#revenue {
+	height: 40px;
+}
+
+#expenditures {
 	height: 60px;
 	background-color: red;
 }
