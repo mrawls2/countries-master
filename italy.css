@@ -120,18 +120,18 @@ li {
 }
 
 .bargraph {
-	display: flex;
+	width: 600px;
 }
 
 .graph {
 	background-color: green;
 	width: 30px;
-	margin-right: 100px;
+	margin-right: 140px;
 	display: inline-block;
 }
 
 span {
-	margin-right: 160px;
+	margin-right: 135px;
 	display: block;
 }
 
@@ -153,13 +153,15 @@ span {
 
 .vbargraph {
 	display: flex;
+	width: 300px;
 }
 
 .vbargraphlist {
 	font-weight: 300;
 	font-size: 15px;
 	margin-top: -2px;
-	margin-right: 10px;
+	width: 30px;
+	margin-right: 140px;
 }
 
 .hbargraph {
