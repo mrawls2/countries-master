@@ -11,6 +11,10 @@ body {
 	color: white;
 }
 
+strong {
+
+}
+
 .map {
 	width: 700px;
 	height: 700px;
@@ -51,13 +55,6 @@ h3,
 .section {
 	display: flex;
 	border-bottom: 3px solid white;
-}
-
-ul,
-li {
-	list-style-type: none;
-	margin-left: 0px;
-	padding-left: 0px;
 }
 
 h1 h3 {
@@ -113,15 +110,25 @@ h5 {
 	margin-left: 20px;
 }
 
+ul,
+li {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.numbers {
+	display: flex;
+}
+
 .numberslist {
 	font-weight: 700;
 	font-size: 30px;
 	color: #018c45;
-	float: right;
 }
 
 .bargraph {
-	display: flex;
+	float: right;
 	width: 360px;
 	height: 300px;
 }
@@ -130,7 +137,6 @@ h5 {
 .world {
 	background-color: green;
 	width: 30px;
-	margin-right: 100px;
 }
 
 .italy {
@@ -150,7 +156,6 @@ h5 {
 	font-weight: 700;
 }
 
-.numbers p,
 .vbargraphlist p {
 	font-weight: 300;
 	font-size: 15px;
